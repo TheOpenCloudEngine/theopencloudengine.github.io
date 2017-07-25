@@ -1,0 +1,6 @@
+{
+  "name": "uenginehome",
+  "short_name": "uenginehome",
+  "start_url": "/",
+  "display": "standalone"
+}
