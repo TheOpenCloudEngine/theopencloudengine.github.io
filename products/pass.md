@@ -1,4 +1,5 @@
 ---
+category: products
 layout: products
 title: Beluga PaaS Engine
 permalink: /products/pass

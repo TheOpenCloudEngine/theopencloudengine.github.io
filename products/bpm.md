@@ -1,4 +1,5 @@
 ---
+category: products
 layout: products
 title: BPM
 permalink: /products/bpm

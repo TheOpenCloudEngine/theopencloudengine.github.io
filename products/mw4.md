@@ -1,4 +1,5 @@
 ---
+category: products
 layout: products
 title: MetaWorks4
 permalink: /products/mw4

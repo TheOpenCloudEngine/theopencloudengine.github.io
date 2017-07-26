@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Home",
+    "url": "/index"
+  },
+  {
+    "name": "Products",
+    "panel": {
+      "type": "large",
+      "menu": [
+        {
+          "title": "BPM Products",
+          "col": 4,
+          "child": [
+            {
+              "name": "uEngine BPM",
+              "url": "/products/bpm"
+            },
+            {
+              "name": "Essencia",
+              "url": "/products/essencia"
+            },
+            {
+              "name": "SNS",
+              "url": "/products/sns"
+            }
+          ]
+        },
+        {
+          "title": "Cloud Platform",
+          "col": 4,
+          "child": [
+            {
+              "name": "Garuda PaaS",
+              "url": "/products/pass"
+            },
+            {
+              "name": "uEngine Billing",
+              "url": "/products/billing"
+            },
+            {
+              "name": "IAM/API Gateway",
+              "url": "/products/iam-gw"
+            }
+          ]
+        },
+        {
+          "title": "Libraries and Frameworks",
+          "col": 4,
+          "child": [
+            {
+              "name": "Open Graph",
+              "url": "/products/og"
+            },
+            {
+              "name": "Metaworks4",
+              "url": "/products/mw4"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Case Studies",
+    "panel": {
+      "type": "single",
+      "child": [
+        {
+          "name": "금융 및 보험",
+          "url": "/case/case01"
+        },
+        {
+          "name": "공공 및 제조/건설/물류",
+          "url": "/case/case02"
+        },
+        {
+          "name": "IT 및 통신",
+          "url": "/case/case03"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Library",
+    "panel": {
+      "type": "single",
+      "child": [
+        {
+          "name": "Tutorial Video",
+          "url": "/library/video"
+        },
+        {
+          "name": "uEngine User's Guide<",
+          "url": "/library/user-guide"
+        },
+        {
+          "name": "uEngine Developer's Guide",
+          "url": "/library/dev-guide"
+        },
+        {
+          "name": "Wiki",
+          "url": "/library/wiki"
+        },
+        {
+          "name": "OpenGraph API",
+          "url": "/library/og-api"
+        },
+        {
+          "name": "Metaworks4 API",
+          "url": "/library/mw4-api"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Community",
+    "panel": {
+      "type": "single",
+      "child": [
+        {
+          "name": "Forums",
+          "url": "/community/forums"
+        },
+        {
+          "name": "Blog",
+          "url": "https://theopencloudengine.github.io/TheOpenCloudEngine.github.io-blog"
+        },
+        {
+          "name": "Twitter",
+          "url": "/community/twitter"
+        },
+        {
+          "name": "Enterprise 2.0",
+          "url": "/community/enterprise"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Event",
+    "panel": {
+      "type": "single",
+      "child": [
+        {
+          "name": "제 1회 OpenCloudEngine 컨퍼런스",
+          "url": "/event/oce1"
+        },
+        {
+          "name": "2012 uEngine Day",
+          "url": "/event/oce2"
+        },
+        {
+          "name": "2010 uEngine Day",
+          "url": "/event/oce3"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Service",
+    "panel": {
+      "type": "single",
+      "child": [
+        {
+          "name": "Warranty Service",
+          "url": "/service/warranty"
+        },
+        {
+          "name": "Consulting Service",
+          "url": "/service/consulting"
+        },
+        {
+          "name": "Training Service",
+          "url": "/service/training"
+        }
+      ]
+    }
+  }
+]
