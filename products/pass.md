@@ -42,7 +42,7 @@ github: https://github.com/TheOpenCloudEngine/beluga
       </div><!-- /.col-md-7 -->
 
       <div class="col-md-5 mt-sm-30">
-        <img src="assets/img/seo/seo-info-light.png" alt="" class="img-responsive">
+        <img src="../assets/img/seo/seo-info-light.png" alt="" class="img-responsive">
       </div><!-- /.text-center mb-80-->
      </div><!--row-->
   </div><!-- /.container -->
