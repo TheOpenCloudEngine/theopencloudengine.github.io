@@ -102,7 +102,15 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
 
 ### uEngine Open Source License : LGPL
 
-![](http://uengine.org/html/images/about/license.gif)
+|주요 오픈소스SW 라이선스 비교|
+|         | 무료 이용가능 | 배포 허용가능 | 소스코드 취득가능 | 소스코드 수정가능 | 2차적 저작물 재공개 의무 | 독점SW와 결합가능 |
+| ---
+| GPL | O | O | O | O | O | X |
+| LGPL | O | O | O | O | O | O |
+| MPL | O | O | O | O | O | O |
+| BSD Licence | O | O | O | O | X | O |
+| Apache Licence | O | O | O | O | X | O |
+
 
 1) 2차 저작물이 재 공개 의무가 있으나 저작물이 전체가 아닌 ("독점SW와 결합가능" 항목에 의하여) 유엔진 내의 필요에 의하여서 수정한 부분만 sf.net 등에 공개하면 됩니다.
 
