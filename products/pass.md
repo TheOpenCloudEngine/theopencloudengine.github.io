@@ -14,6 +14,7 @@ github: https://github.com/TheOpenCloudEngine/beluga
 
 <section class="sesection-padding banner-6 parallax-bg bg-fixed overlay light-9" data-stellar-background-ratio="0.5">
   <div class="container">
+     <div class="row">
       <div class="text-center mb-80">
         <h2 class="font-40 mb-30 white-text">제품 & 서비스 영역</h2>
 
@@ -43,5 +44,6 @@ github: https://github.com/TheOpenCloudEngine/beluga
       <div class="col-md-5 mt-sm-30">
         <img src="assets/img/seo/seo-info-light.png" alt="" class="img-responsive">
       </div><!-- /.text-center mb-80-->
+     </div><!--row-->
   </div><!-- /.container -->
 </section>
