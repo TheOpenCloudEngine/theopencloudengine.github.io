@@ -5,7 +5,7 @@ title: BPM
 permalink: /products/bpm
 intro: 유엔진 BPM 프로젝트는 기존 고가의 라이센스 비용으로만 접할 수 있던 BPMS 제품을 오픈소스 형태로 제공하고, 이를 적용하기 위한 교육과 컨설팅 서비스를 제공함으로써, 컨설팅 비용 중심의 예산구조를 통한 충실한 교육과 내재화 달성, 소스코드의 제공을 통한 고객 요건에 중심을 둔 충실한 커스터마이징, 다수의 서비스 채널을 허용합니다.
 banner: ../assets/img/banner/banner-4.jpg
-video: https://youtu.be/OboYxFb2JbU
+video: <iframe width="100%" height="315" src="https://youtu.be/OboYxFb2JbU" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 github: https://github.com/TheOpenCloudEngine/uengine-bpm
 
 ---
