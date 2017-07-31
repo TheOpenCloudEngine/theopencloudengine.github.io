@@ -15,8 +15,8 @@ github: https://github.com/TheOpenCloudEngine/beluga
 <section class="sesection-padding banner-6 parallax-bg bg-fixed overlay light-9" data-stellar-background-ratio="0.5">
   <div class="container">
      <div class="row">
-      <div class="col-md-7 light-grey-text">
-        <h2 class="font-40 mb-30 white-text">제품 & 서비스 영역</h2>
+      <div class="col-md-7 black-text">
+        <h2 class="font-40 mb-30 black-text">제품 & 서비스 영역</h2>
 
         <ul class="list-icon mb-30">
           <li><i class="material-icons">&#xE876;</i> NoOps Team.</li>
