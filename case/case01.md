@@ -19,6 +19,5 @@ showgroup: true
 
 ### 보험  
 <p style="margin:20px;">  uEngine BPMS는 SOA(Service Oriented Architecture)를 기반으로 업무 프로세스를 관리할 수 있습니다.  
-이는 비기간계 업무뿐 아니라 신상품 개발, 상품계약, 보상, 손해사정 등 폭넓은 영역에 적용할 수 있습니다. </p>  
-
+이는 비기간계 업무뿐 아니라 신상품 개발, 상품계약, 보상, 손해사정 등 폭넓은 영역에 적용할 수 있습니다. </p>   
 <img src='http://l.incru.it/2008/12/%EB%8C%80%ED%95%9C%EC%83%9D%EB%AA%85(%EA%B0%80%EB%A1%9C).jpg' style="margin: 3px; box-shadow: 2px 2px 10px silver;">
