@@ -28,15 +28,14 @@ uEngine이 기업에 최적화 된 솔루션으로 도입되기 위하여 관계
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-s6z2{text-align:center}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-yw4l">구분</th>
-    <th class="tg-yw4l">날짜</th>
-    <th class="tg-yw4l">시간</th>
-    <th class="tg-yw4l">내용</th>
-    <th class="tg-yw4l">등록</th>
+    <th class="tg-baqh">구분</th>
+    <th class="tg-baqh">날짜</th>
+    <th class="tg-baqh">시간</th>
+    <th class="tg-baqh">내용</th>
+    <th class="tg-baqh">등록</th>
   </tr>
   <tr>
     <td class="tg-s6z2" rowspan="4">BPM <br>기초교육과정</td>
