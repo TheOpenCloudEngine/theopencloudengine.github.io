@@ -72,3 +72,49 @@ uEngine이 기업에 최적화 된 솔루션으로 도입되기 위하여 관계
     <td class="tg-baqh"></td>
   </tr>
 </table>
+
+#### 상세 프로그램  
+   
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e" colspan="5">BPM 기초 교육 과정</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" colspan="2">구분</td>
+    <td class="tg-yw4l">세부과목</td>
+    <td class="tg-yw4l">내용</td>
+    <td class="tg-yw4l">기반지식</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="4">BPM 기초<br>교육 과정</td>
+    <td class="tg-yw4l">1일차</td>
+    <td class="tg-yw4l">BPM개론/기반확립</td>
+    <td class="tg-yw4l">- BPM 개론 및 uEngine 소개,&amp; 설치<br>- 프로세스의 생성과 실행 <br>- 워크플로우 작성 및 메일/노티<br>- 흐름 컨트롤/프로세스 분석기의 활용법<br>- 실습</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">2일차</td>
+    <td class="tg-yw4l">애플리케이션 및DB 연계</td>
+    <td class="tg-yw4l">- 서브 프로세스와 멀티플 인스턴스 <br>- 이벤트 핸들러 <br>- 실습1<br>- URL 애플리케이션 연동과 스크립팅 <br>- 데이터 베이스 연동 <br>- 룰 중심 프로세스<br>- 실습2</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">3일차</td>
+    <td class="tg-yw4l">BPM 커스터마이징 및 연계 I</td>
+    <td class="tg-yw4l">- 유엔진 커스터마이징 영역 설명<br>- 개발 환경 구축 .이클립스 설치 및 유엔진 SF.net CVS 설정 .디버깅 방법 및 소스 분석 기법<br>- ERD 및 uEngine 프로퍼티<br>- uEngine API 설명<br>- 액티비티 필터 개발<br>- 실습1<br>- 커스텀 액티비티 타입 개발- 조직도 연계 컴포넌트의 개발 .Role Mapping .Role Resolution Context<br>- 실습2</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">4일차</td>
+    <td class="tg-yw4l">BPM 커스터마이징 및 연계 II</td>
+    <td class="tg-yw4l">- 커스텀 워크아이템 핸들러 개발 <br>- 실습<br>- 유엔진 컴포넌트 프레임워크 .콤포지트-타입-인스턴스(스퀘어) 패턴 .제네릭 UI 서포트(메타웍스 프레임워크) .제네릭 퍼시스턴스(Xstream) <br>- 웹서비스를 통한 프로세스 연동</td>
+    <td class="tg-yw4l"></td>
+  </tr>
+</table>
