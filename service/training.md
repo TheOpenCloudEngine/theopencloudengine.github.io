@@ -21,3 +21,55 @@ uEngine이 기업에 최적화 된 솔루션으로 도입되기 위하여 관계
 #### 정기 교육 과정     
 
 장소 : 『서울 서초구 신반포로45길 18 주일빌딩 501호』  
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-s6z2{text-align:center}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">구분</th>
+    <th class="tg-yw4l">날짜</th>
+    <th class="tg-yw4l">시간</th>
+    <th class="tg-yw4l">내용</th>
+    <th class="tg-yw4l">등록</th>
+  </tr>
+  <tr>
+    <td class="tg-s6z2" rowspan="4">BPM <br>기초교육과정</td>
+    <td class="tg-baqh">미정</td>
+    <td class="tg-baqh">10:00 ~ 18:00</td>
+    <td class="tg-baqh">BPM 개론 / 기반 확립</td>
+    <td class="tg-baqh" rowspan="4">200만원<br>(1인,VAT별도)</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">미정</td>
+    <td class="tg-baqh">10:00 ~ 18:00</td>
+    <td class="tg-baqh">애플리케이션 및 DB 연계</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">미정</td>
+    <td class="tg-baqh">10:00 ~ 18:00</td>
+    <td class="tg-baqh">BPM 커스터마이징 및 연계 I</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">미정</td>
+    <td class="tg-baqh">10:00 ~ 18:00</td>
+    <td class="tg-baqh">BPM 커스터마이징 및 연계 I</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" rowspan="2"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+</table>
