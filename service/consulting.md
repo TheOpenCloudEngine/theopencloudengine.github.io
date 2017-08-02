@@ -22,5 +22,14 @@ uEngine에서는 uEngine BPM 구축(BPMS)을 위한 컨설팅 서비스를 제�
 ## 공개 SW 적용 (uEngine BPM 연계) 서비스
 
 uEngine 제품과 연계된 알프레스코(Alfresco), 몬드리안(BI Mondrian), 라이프레이(liferay) 등의 공개 SW를 적용함에 있어 설치 및 uEngine BPM과의 연동에 대한 서비스를 제공합니다.
+  
+  
+## Cloud Computing
 
+uEngine 제품과 연계된 알프레스코(Alfresco), 몬드리안(BI Mondrian), 라이프레이(liferay) 등의 공개 SW를 적용함에 있어 설치 및 uEngine BPM과의 연동에 대한 서비스를 제공합니다.
+  
+  
+## SaaS 
+
+uEngine 제품과 연계된 알프레스코(Alfresco), 몬드리안(BI Mondrian), 라이프레이(liferay) 등의 공개 SW를 적용함에 있어 설치 및 uEngine BPM과의 연동에 대한 서비스를 제공합니다.
     
