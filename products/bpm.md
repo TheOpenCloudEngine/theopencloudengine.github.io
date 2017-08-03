@@ -195,3 +195,13 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
  
 
 출처 한국 저작권 위원회: http://www.olis.or.kr/osslice/guideViewComp.do
+
+#uEngine BPM Video
+
+```
+BPM 기본
+
+[BPM의 개념](https://youtu.be/Wnl9tx3AwAI)
+
+```
+
