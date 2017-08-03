@@ -23,7 +23,14 @@ layout: default
                     {% if page.demo %}
                     <a href="{{ page.demo }}" class="btn btn-lg blue waves-effect waves-light mt-30">Live Demo</a>
                     {% endif %}
-
+                    
+                    {% if page.manual %}
+                    <a href="{{ page.demo }}" class="btn btn-lg blue waves-effect waves-light mt-30">Manual</a>
+                    {% endif %}
+                         
+                    {% if page.guide %}
+                    <a href="{{ page.demo }}" class="btn btn-lg blue waves-effect waves-light mt-30">Guide</a>
+                    {% endif %}
                 </div><!-- col-md-6 -->
                 {% if page.video %}
                 <div class="col-md-6">
