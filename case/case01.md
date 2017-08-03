@@ -17,11 +17,11 @@ showgroup: true
 <div class="tg-wrap" style="margin-left: 15px; margin-right: 15px;">
   <table class="tg">
     <tr>
-      <th class="tg-yw4l" width="20%"><img src='http://cfile10.uf.tistory.com/image/22406C36550A7C480503B9' style="margin: 3px; width: 268.8px; height:81.5px;"></th>
-      <th class="tg-yw4l" width="20%"><img src='http://www.commeet.me/upload/groupware/etc_company/logo/658_company_logo.jpg' style="margin: 3px; width: 96px; height:81.5px;"></th>
-      <th class="tg-yw4l" width="20%"><img src='http://cfile7.uf.tistory.com/image/136BB448509BB66D2BC590' style="margin: 3px; width: 229.6px; height:81.5px;"></th>
-      <th class="tg-yw4l" width="20%"><img src='http://www.realtimetech.co.kr/wp-content/uploads/2015/05/kcb.png' style="margin: 3px; width: 157.2px; height:81.5px;"></th>
-      <th class="tg-yw4l" width="20%"><img src='http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg' style="margin: 3px; width: 395.6px; height:81.5px;"></th>
+      <th class="tg-yw4l" width="15%"><img src='http://cfile10.uf.tistory.com/image/22406C36550A7C480503B9' style="margin: 3px; width: 268.8px; height:81.5px;"></th>
+      <th class="tg-yw4l" width="15%"><img src='http://www.commeet.me/upload/groupware/etc_company/logo/658_company_logo.jpg' style="margin: 3px; width: 96px; height:81.5px;"></th>
+      <th class="tg-yw4l" width="15%"><img src='http://cfile7.uf.tistory.com/image/136BB448509BB66D2BC590' style="margin: 3px; width: 229.6px; height:81.5px;"></th>
+      <th class="tg-yw4l" width="15%"><img src='http://www.realtimetech.co.kr/wp-content/uploads/2015/05/kcb.png' style="margin: 3px; width: 157.2px; height:81.5px;"></th>
+      <th class="tg-yw4l" width="15%"><img src='http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg' style="margin: 3px; width: 395.6px; height:81.5px;"></th>
     </tr>
   </table>
 </div>
