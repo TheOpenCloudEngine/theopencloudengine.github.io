@@ -30,21 +30,7 @@ github: https://github.com/TheOpenCloudEngine/uengine-bpm
 
 <br>
 
-<style>
-.left-box {
 
-  float: left;
-  width: 50%;
-}
-.right-box {
-
-  float: right;
-  width: 50%;
-}
-</style>
-
-<div class='left-box container markdown'>
-  
 # BPMS 도입 필요성
 다양한 시스템(Groupware, EDM, KM 등)의 도입을 통하여 업무 경쟁력을 강화하려 했지만 업무의 중복성과 통일성 결여 그리고 특히 협업 차원에서 각 시스템간의 연계성이 떨어짐
 
@@ -66,8 +52,7 @@ github: https://github.com/TheOpenCloudEngine/uengine-bpm
 시스템 간의 통합에 너무 많은 비용이 들어 간다.
 요구변경이 너무 잦아서 매일 야근해도 작업량은 늘어만 가고 요청자(고객)들은 불평만 계속 늘어만 간다.
 ```
-</div>
-<div class='right-box container markdown'>
+
   
 # BPMS 도입 효과
   
@@ -95,8 +80,7 @@ BPM 시스템이 업무간의 전이를 담당하여 개인별 평균 업무 생
 비즈니스 프로세스에 대한 변경을 바로 반영함으로써 실시간 기업 구현이 가능해짐
 보다 프로세스지향적이고 어플리케이션 통합 지향적인 시스템 아키텍처로의 발전이 촉진됨
 ```
-  
-</div>
+
 <br>
 <br>
   
