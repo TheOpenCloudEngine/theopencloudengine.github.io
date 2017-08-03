@@ -43,7 +43,7 @@ github: https://github.com/TheOpenCloudEngine/uengine-bpm
 }
 </style>
 
-<div class='left-box markdown'>
+<div class='left-box container markdown'>
   
 # BPMS 도입 필요성
 다양한 시스템(Groupware, EDM, KM 등)의 도입을 통하여 업무 경쟁력을 강화하려 했지만 업무의 중복성과 통일성 결여 그리고 특히 협업 차원에서 각 시스템간의 연계성이 떨어짐
@@ -67,7 +67,7 @@ github: https://github.com/TheOpenCloudEngine/uengine-bpm
 요구변경이 너무 잦아서 매일 야근해도 작업량은 늘어만 가고 요청자(고객)들은 불평만 계속 늘어만 간다.
 ```
 </div>
-<div class='right-box markdown'>
+<div class='right-box container markdown'>
   
 # BPMS 도입 효과
   
