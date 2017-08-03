@@ -82,38 +82,6 @@
     }
   },
   {
-    "name": "Library",
-    "panel": {
-      "type": "single",
-      "child": [
-        {
-          "name": "Tutorial Video",
-          "url": "/library/video"
-        },
-        {
-          "name": "uEngine User's Guide",
-          "url": "/library/user-guide"
-        },
-        {
-          "name": "uEngine Developer's Guide",
-          "url": "/library/dev-guide"
-        },
-        {
-          "name": "Wiki",
-          "url": "/library/wiki"
-        },
-        {
-          "name": "OpenGraph API",
-          "url": "/library/og-api"
-        },
-        {
-          "name": "Metaworks4 API",
-          "url": "/library/mw4-api"
-        }
-      ]
-    }
-  },
-  {
     "name": "Community",
     "panel": {
       "type": "single",
