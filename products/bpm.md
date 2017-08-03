@@ -253,10 +253,6 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><a href="https://youtu.be/-sbmBuC512E" target="_blank">업무&교육 프로세스 통합</a></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
   </tr>
 </table>
 <br>
@@ -273,9 +269,6 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
   <tr>
     <th class="tg-yw4l"><a href="https://youtu.be/-sbmBuC512E" target="_blank">기업 AS 프로세스 1</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/OG42Y10CUEs" target="_blank">기업 AS 프로세스 2</a></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
   </tr>
 </table>
 <br>
@@ -293,8 +286,6 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
     <th class="tg-yw4l"><a href="https://youtu.be/EiOKlz9q8t8" target="_blank">프로세스 실행 오버뷰</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/WxpKfTJCc7s" target="_blank">프로세스 모델링 오버뷰</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/Dhi4CFS2hGk" target="_blank">유연한 프로세스 관리 기법</a></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
   </tr>
 </table>
 <br>
@@ -312,6 +303,8 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
   <tr>
     <th class="tg-yw4l"><a href="https://youtu.be/pjzQtRa7nNQ" target="_blank">유엔진 프로세스 모델정의 1</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/mGJ8CAnzc6Q" target="_blank">유엔진 프로세스 모델정의 2</a></th>
+  </tr>
+  <tr>
     <th class="tg-yw4l"><a href="https://youtu.be/ricAyobgOWc" target="_blank">uEngine Customization 1</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/y18BVqzF3HQ" target="_blank">uEngine Customization 2</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/4AcukQYQRNY" target="_blank">uEngine Customization 3</a></th>
@@ -320,8 +313,6 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
     <th class="tg-yw4l"><a href="https://youtu.be/KmzrYCy275s" target="_blank">엔진 내부 해부 1</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/BIecI-Va3SA" target="_blank">엔진 내부 해부 2</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/PhssGDmjCWw" target="_blank">엔진 내부 해부 3</a></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
   </tr>
 </table>
 <br>
@@ -338,8 +329,9 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
   <tr>
     <th class="tg-yw4l"><a href="https://youtu.be/bd2-CG6hSn0" target="_blank">디버깅 및 소스 분석 1</a></th>
     <th class="tg-yw4l"><a href="https://youtu.be/D04xN2PuP4I" target="_blank">디버깅 및 소스 분석 2</a></th>
-    <th class="tg-yw4l"><a href="https://youtu.be/3e2YXMBjWBU" target="_blank">이클립스 설정 1 1</a></th>
-    <th class="tg-yw4l"><a href="https://youtu.be/CML13YxYBW4" target="_blank">이클립스 설정 2</a></th>
-    <th class="tg-yw4l">></th>
+  </tr>
+  <tr>
+    <th class="tg-yw4l"><a href="https://youtu.be/3e2YXMBjWBU" target="_blank">이클립스 설정 1</a></th>
+    <th class="tg-yw4l"><a href="https://youtu.be/CML13YxYBW4" target="_blank">이클립스 설정 2</a></th> 
   </tr>
 </table>
