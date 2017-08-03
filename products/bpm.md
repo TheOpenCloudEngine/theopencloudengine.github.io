@@ -43,7 +43,6 @@ github: https://github.com/TheOpenCloudEngine/uengine-bpm
 }
 </style>
 
-<div class='right-box'>오른쪽</div>
 <div class='left-box'>
   
 # BPMS 도입 필요성
