@@ -197,10 +197,6 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><a href="https://youtu.be/Wnl9tx3AwAI" target="_blank">BPM의 개념</a></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
-    <th class="tg-yw4l"></th>
   </tr>
 </table>
 
