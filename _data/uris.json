@@ -82,30 +82,6 @@
     }
   },
   {
-    "name": "Community",
-    "panel": {
-      "type": "single",
-      "child": [
-        {
-          "name": "Forums",
-          "url": "/community/forums"
-        },
-        {
-          "name": "Blog",
-          "url": "https://theopencloudengine.github.io/TheOpenCloudEngine.github.io-blog"
-        },
-        {
-          "name": "Twitter",
-          "url": "/community/twitter"
-        },
-        {
-          "name": "Enterprise 2.0",
-          "url": "/community/enterprise"
-        }
-      ]
-    }
-  },
-  {
     "name": "Event",
     "panel": {
       "type": "single",
