@@ -16,11 +16,11 @@ showgroup: true
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
   <tr>
-    <th class="tg-yw4l"><img src='http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg'></th>
-    <th class="tg-yw4l"><img src='http://www.realtimetech.co.kr/wp-content/uploads/2015/05/kcb.png'></th>
-    <th class="tg-yw4l"><img src='http://cfile7.uf.tistory.com/image/136BB448509BB66D2BC590'></th>
-    <th class="tg-yw4l"><img src='http://www.commeet.me/upload/groupware/etc_company/logo/658_company_logo.jpg'> </th>
-    <th class="tg-yw4l"><img src='http://cfile10.uf.tistory.com/image/22406C36550A7C480503B9'> </th>
+    <th class="tg-yw4l" width="20%"><img src='http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg'></th>
+    <th class="tg-yw4l" width="20%"><img src='http://www.realtimetech.co.kr/wp-content/uploads/2015/05/kcb.png'></th>
+    <th class="tg-yw4l" width="20%"><img src='http://cfile7.uf.tistory.com/image/136BB448509BB66D2BC590'></th>
+    <th class="tg-yw4l" width="20%"><img src='http://www.commeet.me/upload/groupware/etc_company/logo/658_company_logo.jpg'> </th>
+    <th class="tg-yw4l" width="20%"><img src='http://cfile10.uf.tistory.com/image/22406C36550A7C480503B9'> </th>
   </tr>
 </table></div>
 
