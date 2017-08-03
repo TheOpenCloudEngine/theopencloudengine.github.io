@@ -18,13 +18,13 @@ github: https://github.com/TheOpenCloudEngine/process-codi
 
 [Tomcat Download](http://tomcat.apache.org/download-70.cgi) 좌측의 'Tomcat Download' 버튼을 클릭하여 Tomcat사이트로 이동 후, 하단의 Binary Distributions의 core - zip을 선택하여 다운받는다. (해당 Tomcat 버전은 Tomcat7버전)
 
-- - -
+***
 <br>
 ### 2. Tomcat 설치
 
 다운 받은 Tomcat은 원하는 경로에 압축을 해제 후, webapp에 있는 기존 파일을 모두 삭제한다.
 
-- - -
+***
 <br>
 ### 3. MySQL 설치
 이 설치 방법은 MySQL을 기준으로 작성되어 있습니다.
@@ -34,10 +34,12 @@ MySQL 설치 후, Schema 생성을 한다.
 
 생성된 Schema에 Tomcat/webapps/ROOT/resource/mysql 안에있는 processcodi.sql을 Import 한다.
 
+***
+<br>
 ### 4. ProcessCodi war 다운로드
 [WAR Download](https://oss.sonatype.org/content/repositories/snapshots/org/uengine/process-codi/1.0.0r-SNAPSHOT/process-codi-1.0.0r-20170803.045936-1.war) 좌측의 'WAR Download'버튼을 클릭하여 ProcessCodi war파일을 다운받은후, 2번에서 해제한 Tomcat 폴더의 webapp 폴더로 이동시킨다.
 
-- - -  
+***  
 <br>
 ### 5. war파일 해제
 command창을 이용하여 Tomcat/webapp 폴더에 접근 후, 
@@ -45,7 +47,8 @@ command창을 이용하여 Tomcat/webapp 폴더에 접근 후,
 jar -xvf [war파일 명].war
 ```
 을 실행한다.
-
+***
+<br>
 ### 6. uengine.properties 수정
 Tomcat/webapp/ROOT/WEB-INF/classes/org/uengine 경로로 이동하여, uengine.properties 파일을 수정한다.
 
@@ -65,7 +68,7 @@ daofactory.class=org.uengine.persistence.dao.MySQLDAOFactory 를 제외한 나�
     3) jdbc.url=jdbc:mysql://[DB접속 주소]:[DB포트]/[DB스키마 명]?useUnicode=true&amp;characterEncoding=UTF8 로 mysql 접속을 설정한다.
     4) 하단의 jdbc.username=[DB 접속 계정명] jdbc.password=[DB 접속 패스워드]를 설정한다.
 ```
-- - -
+***
 <br>
 ### 7. applicationContext.xml 수정
 Tomcat/webapp/ROOT/WEB-INF 경로로 이동하여, applicationContext.xml 파일을 수정한다.
@@ -78,7 +81,7 @@ applicationContext.xml에서 수정 되는 부분은 다음과 같다.
 4. <property name="password" value="DB 암호" />
 5. 하위에 있는 CUBRID DATA Source는 사용하지 않으므로, <!-- -->로 주석이 되어있다.
 ```
-- - -
+***
 <br>
 ### 8. Tomcat 실행
 1~7단계를 모두 완료 하였다면, Tomcat을 실행한다.
@@ -88,7 +91,7 @@ Tomcat/bin 폴더로 이동한다.
 2. Linux의 경우, startup.sh을 실행한다.
 2.1 Linux의 경우 콘솔창이 확인이 바로 되지 않으므로, Tomcat/logs 폴더로 이동 후, tail -f catalina.out을 입력하면 콘솔을 확인 할 수 있다.
 ```
-- - -
+***
 <br>
 ### 9. Process Codi 접속
 Tomcat이 정상적으로 실행되었다면 콘솔창에,
