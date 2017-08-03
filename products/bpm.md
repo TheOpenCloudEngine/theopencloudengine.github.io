@@ -7,6 +7,8 @@ intro: 유엔진 BPM 프로젝트는 기존 고가의 라이센스 비용으로�
 banner: ../assets/img/banner/banner-4.jpg
 video: <iframe width="100%" height="315" src="https://www.youtube.com/embed/OboYxFb2JbU?ecver=2" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 github: https://github.com/TheOpenCloudEngine/uengine-bpm
+manual: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
+guide: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
 
 ---
 
