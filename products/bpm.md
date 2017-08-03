@@ -186,8 +186,23 @@ BPM의 업무 진행의 복병은 한번 커밋해버린 지난 단계의 업무
 
 ### BPM 기본
 - - -
-|[BPM의 개념](https://youtu.be/Wnl9tx3AwAI)   |   |   |   |   |
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">[BPM의 개념](https://youtu.be/Wnl9tx3AwAI)</th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+    <th class="tg-yw4l"></th>
+  </tr>
+</table>
 
 <br>
 ### uEngine 사용자 가이드 동영상
