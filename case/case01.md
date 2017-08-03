@@ -14,15 +14,17 @@ showgroup: true
 .tg .tg-lqy6{text-align:right;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
-<div class="tg-wrap"><table class="tg">
-  <tr>
-    <th class="tg-yw4l" width="20%">test</th>
-    <th class="tg-yw4l" width="20%">test</th>
-    <th class="tg-yw4l" width="20%">test</th>
-    <th class="tg-yw4l" width="20%">test</th>
-    <th class="tg-yw4l" width="20%">test</th>
-  </tr>
-</table></div>
+<div class="tg-wrap" style="margin-left: 15px; margin-right: 15px;">
+  <table class="tg">
+    <tr>
+      <th class="tg-yw4l" width="20%" 'http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg'>test</th>
+      <th class="tg-yw4l" width="20%">test</th>
+      <th class="tg-yw4l" width="20%">test</th>
+      <th class="tg-yw4l" width="20%">test</th>
+      <th class="tg-yw4l" width="20%">test</th>
+    </tr>
+  </table>
+</div>
 
 
 
