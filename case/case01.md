@@ -17,7 +17,7 @@ showgroup: true
 <div class="tg-wrap" style="margin-left: 15px; margin-right: 15px;">
   <table class="tg">
     <tr>
-      <th class="tg-yw4l" width="20%" 'http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg'>test</th>
+      <th class="tg-yw4l" width="20%"><img src='http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg'></th>
       <th class="tg-yw4l" width="20%">test</th>
       <th class="tg-yw4l" width="20%">test</th>
       <th class="tg-yw4l" width="20%">test</th>
