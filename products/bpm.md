@@ -32,12 +32,12 @@ github: https://github.com/TheOpenCloudEngine/uengine-bpm
 
 <style>
 .left-box {
-  background: red;
+
   float: left;
   width: 50%;
 }
 .right-box {
-  background: blue;
+
   float: right;
   width: 50%;
 }
@@ -99,7 +99,8 @@ BPM 시스템이 업무간의 전이를 담당하여 개인별 평균 업무 생
   
 </div>
 <br>
-
+<br>
+  
 # 유엔진 BPM은 어떠한 아키텍처적 장점이 있습니까?
 
 ![](http://uengine.org/html/images/about/architecture_img.gif)
