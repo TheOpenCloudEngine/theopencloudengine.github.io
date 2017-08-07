@@ -23,8 +23,8 @@ th, td {
 }
 
 .autoResizeImage {
-    width: 90%;
-    height: 90%;
+    width: 70%;
+    height: 70%;
     max-height:130.4
 }
 </style>
