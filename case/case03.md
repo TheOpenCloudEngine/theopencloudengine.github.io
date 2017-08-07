@@ -38,7 +38,7 @@ th, td {
     <tr>
         <th><img class="autoResizeImage" src='../assets/img/case/case03/hanhwa.png' style="margin: 3px; max-height: 87px;"></th>
         <th><img class="autoResizeImage" src='../assets/img/case/case03/posco.png' style="margin: 3px; max-height: 195px;"></th>
-         <th><img class="autoResizeImage" src='../assets/img/case/case03/unionnec.png' style="margin: 3px; max-height: 148px;"></th>
+         <th><img class="autoResizeImage" src='../assets/img/case/case03/unionnec.jpg' style="margin: 3px; max-height: 148px;"></th>
     </tr>
     <tr>
         <th><img class="autoResizeImage" src='../assets/img/case/case03/skcc.png' style="margin: 3px; max-height: 148px;"></th>  
