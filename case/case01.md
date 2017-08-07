@@ -36,7 +36,7 @@ th, td {
     <tr>
         <th><img class="autoResizeImage" src='http://cfile10.uf.tistory.com/image/22406C36550A7C480503B9' style="margin: 3px;"></th>
         <th><img class="autoResizeImage" src='http://cfile7.uf.tistory.com/image/136BB448509BB66D2BC590' style="margin: 3px; max-height: 86.8px;"></th>
-         <th><img class="autoResizeImage" src='http://www.commeet.me/upload/groupware/etc_company/logo/658_company_logo.jpg' style="margin: 3px;"></th>
+         <th><img class="autoResizeImage" src='http://www.commeet.me/upload/groupware/etc_company/logo/658_company_logo.jpg' style="margin: 3px; max-width: 132.2px;"></th>
     </tr>
     <tr>
         <th><img class="autoResizeImage" src='http://www.realtimetech.co.kr/wp-content/uploads/2015/05/kcb.png' style="margin: 3px;"></th>  
