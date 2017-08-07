@@ -40,7 +40,7 @@ th, td {
 <table>
     <tr>
         <th><img class="autoResizeImage" src='http://cfile9.uf.tistory.com/original/27631737523BDEB427B373' style="margin: 3px;"></th>
-        <th><img class="autoResizeImage" src='http://cfile28.uf.tistory.com/image/215C3F42561B7B0C3306F6' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='http://cfile28.uf.tistory.com/image/215C3F42561B7B0C3306F6' style="margin: 3px; max-width: 176px; "></th>
         <th><img class="autoResizeImage" src='http://cfile23.uf.tistory.com/image/151C984A4F5D56770F7448' style="margin: 3px;"></th>
     </tr>
     <tr>
