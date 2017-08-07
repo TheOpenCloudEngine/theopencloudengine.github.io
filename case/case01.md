@@ -13,6 +13,7 @@ th, td {
     word-wrap: break-word;
     width: 100%;
     border: 1px solid #000000;
+    max-height: 140px;
 }
 
 @media screen and (max-width: 750px) {
@@ -22,7 +23,8 @@ th, td {
 }
 
 .autoResizeImage {
-    max-width: 100%;
+    max-width: 80%;
+    max-wdith: 80%;
 }
 </style>
 
