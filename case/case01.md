@@ -54,7 +54,7 @@ th, td {
 이는 비기간계 업무뿐 아니라 신상품 개발, 상품계약, 보상, 손해사정 등 폭넓은 영역에 적용할 수 있습니다. </p>   
   <table>
     <tr>
-      <th><img src='http://l.incru.it/2008/12/%EB%8C%80%ED%95%9C%EC%83%9D%EB%AA%85(%EA%B0%80%EB%A1%9C).jpg' style="margin: 3px; width: 268.8px; height:81.5px;"></th>
+      <th><img class="autoResizeImage" src='http://l.incru.it/2008/12/%EB%8C%80%ED%95%9C%EC%83%9D%EB%AA%85(%EA%B0%80%EB%A1%9C).jpg' style="margin: 3px;"></th>
     </tr>
 
   </table>
