@@ -4,6 +4,11 @@ permalink: /case/case02
 showgroup: true
 ---
 
+<style>
+   border="1"
+   border-color="#000000"
+</style>
+
 <h2 style="margin-left: 7px;">공공기관</h2>
 <p style="margin:20px;"> uEngine BPMS는 업무별 표준 프로세스를 이용하여 정부 공공 기관의 여러 프로젝트에 적용 구축되어 전자 정부를 실현 할 수 있습니다. <br>
 이는 정부의 전산 문서의 관리와 더불어 포괄적 업무 분담 및 레거시 시스템과의 연계를 이루어 낼 수 있습니다. </p>
