@@ -36,13 +36,14 @@ th, td {
 
 <table>
     <tr>
-        <th><img class="autoResizeImage" src='http://cfile10.uf.tistory.com/image/22406C36550A7C480503B9' style="margin: 3px;"></th>
-        <th><img class="autoResizeImage" src='http://cfile7.uf.tistory.com/image/136BB448509BB66D2BC590' style="margin: 3px; max-height: 86.8px;"></th>
+        <th><img class="autoResizeImage" src='http://down-hackersg.x-cdn.com/hackers/bbs/data/2014/11/13/03b8e5610742fcf529be7c0932b91cea134919.png' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='https://www.redhat.com/cms/managed-files/Web_rhc_Success_PoscoICT_Logo_225x158.png' style="margin: 3px; max-height: 86.8px;"></th>
          <th><img class="autoResizeImage" src='http://www.commeet.me/upload/groupware/etc_company/logo/658_company_logo.jpg' style="margin: 3px; max-width: 132.2px;"></th>
     </tr>
     <tr>
-        <th><img class="autoResizeImage" src='http://www.realtimetech.co.kr/wp-content/uploads/2015/05/kcb.png' style="margin: 3px;"></th>  
-        <th><img class="autoResizeImage" src='http://img.yonhapnews.co.kr/etc/inner/KR/2016/07/13/AKR20160713169000008_01_i.jpg' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='http://logosandbrands.directory/wp-content/themes/directorypress/thumbs/SK-CC-logo.png' style="margin: 3px;"></th>  
+        <th></th>
+        <th></th>
     </tr>
 </table>
 
@@ -56,7 +57,7 @@ th, td {
 이는 전사 프로세스의 표준화를 이룰 수 있습니다. </p>   
   <table>
     <tr>
-      <th><img class="autoResizeImage" src='http://l.incru.it/2008/12/%EB%8C%80%ED%95%9C%EC%83%9D%EB%AA%85(%EA%B0%80%EB%A1%9C).jpg' style="margin: 3px;"></th>
+      <th><img class="autoResizeImage" src='https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/SK_Telecom_Logo.svg/1200px-SK_Telecom_Logo.svg.png' style="margin: 3px;"></th>
         <th></th>
         <th></th>
     </tr>
