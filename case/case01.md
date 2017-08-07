@@ -34,7 +34,7 @@ th, td {
 
 <table>
     <tr>
-        <th><img class="autoResizeImage" src='../assets/img/case/case01/ksf.png' style="margin: 3px; max-height: 23px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case01/ksf.png' style="margin: 3px;"></th>
         <th><img class="autoResizeImage" src='../assets/img/case/case01/kdb.jpg' style="margin: 3px;"></th>
          <th><img class="autoResizeImage" src='../assets/img/case/case01/woori.jpg' style="margin: 3px;"></th>
     </tr>
