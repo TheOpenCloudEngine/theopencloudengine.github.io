@@ -4,22 +4,22 @@ permalink: /case/case01
 showgroup: true
 ---
 <style>
-table {
-    width: 100%;
-    text-align: left;
-    table-layout: fixed;
-}
+    table {
+        width: 100%;
+        text-align: left;
+        table-layout: fixed;
+    }
 
-th, td {
-    word-wrap: break-word;
-    width: 100%;
-}
+    th, td {
+        word-wrap: break-word;
+        width: 100%;
+    }
 
-@media screen and (max-width: 750px) {
-    tbody, thead { float: left; }
-    thead { min-width: 120px }
-    td,th { display: block }
-}
+    @media screen and (max-width: 750px) {
+        tbody, thead { float: left; }
+        thead { min-width: 120px }
+        td,th { display: block }
+    }
 </style>
 
 <h2 style="margin-left: 7px;">금융</h2>
