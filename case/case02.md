@@ -66,18 +66,18 @@ th, td {
 그리고 조건별 분기를 나열하여 결과를 도출하는 업무를 수행하거나 특정 룰을 기반으로 심사자를 자동 분배할 수도 있습니다. </p>   
 <table>
     <tr>
-        <th><img class="autoResizeImage" src='http://www.breaknews.com/imgdata/breaknews_com/201612/2016120527481893.jpg' style="margin: 3px; max-height: 61px;"></th>
-        <th><img class="autoResizeImage" src='http://www.gpkorea.com/data/cheditor4/1402/4801824c2fc7fac37b08393118c3afdb_1391564017.21.jpg' style="margin: 3px; max-height: 71px;"></th>
-        <th><img class="autoResizeImage" src='https://www.fujixerox.co.kr/View/front/common_v5/src/kor/images/logo.gif' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/nongsim.jpg' style="margin: 3px; max-height: 61px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/hyunki.jpg' style="margin: 3px; max-height: 71px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/fuji.gif' style="margin: 3px;"></th>
     </tr>
     <tr>
-        <th><img class="autoResizeImage" src='http://kyung-dong.com/template/s150319001001/images/logo.png' style="margin: 3px;"></th>  
-        <th><img class="autoResizeImage" src='http://www.image114.co.kr/files/attach/images/10883/742/043/466b6b6fa4afa601df77874e5b8017ac.png' style="margin: 3px;"></th>
-        <th><img class="autoResizeImage" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hyundai_Merchant_Marine.svg/2000px-Hyundai_Merchant_Marine.svg.png' style="margin: 3px; max-height: 71px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/navi.png' style="margin: 3px;"></th>  
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/daesang.png' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/hmm.png' style="margin: 3px; max-height: 71px;"></th>
     </tr>
     <tr>
-        <th><img class="autoResizeImage" src='http://businesskorea.co.kr/sites/default/files/field/image/Daewoo%20enc_1_0.jpg' style="margin: 3px; max-height: 34px;"></th>  
-        <th><img class="autoResizeImage" src='http://news20.busan.com/content/image/2009/09/25/20090925000188_0.jpg' style="margin: 3px; max-height: 34px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/daewoo.jpg' style="margin: 3px; max-height: 34px;"></th>  
+        <th><img class="autoResizeImage" src='../assets/img/case/case02/tsb.jpg' style="margin: 3px; max-height: 34px;"></th>
         <th></th>
     </tr>
 </table>
