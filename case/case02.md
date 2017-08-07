@@ -66,7 +66,7 @@ th, td {
 그리고 조건별 분기를 나열하여 결과를 도출하는 업무를 수행하거나 특정 룰을 기반으로 심사자를 자동 분배할 수도 있습니다. </p>   
 <table>
     <tr>
-        <th><img class="autoResizeImage" src='http://www.breaknews.com/imgdata/breaknews_com/201612/2016120527481893.jpg' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='http://www.breaknews.com/imgdata/breaknews_com/201612/2016120527481893.jpg' style="margin: 3px; max-width: 516px;"></th>
         <th><img class="autoResizeImage" src='http://www.gpkorea.com/data/cheditor4/1402/4801824c2fc7fac37b08393118c3afdb_1391564017.21.jpg' style="margin: 3px;"></th>
         <th><img class="autoResizeImage" src='https://www.fujixerox.co.kr/View/front/common_v5/src/kor/images/logo.gif' style="margin: 3px;"></th>
     </tr>
