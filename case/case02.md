@@ -40,18 +40,18 @@ th, td {
 
 <table>
     <tr>
-        <th><img class="autoResizeImage" src='http://cfile9.uf.tistory.com/original/27631737523BDEB427B373' style="margin: 3px;"></th>
-        <th><img class="autoResizeImage" src='http://cfile28.uf.tistory.com/image/215C3F42561B7B0C3306F6' style="margin: 3px; max-width: 176px; "></th>
+        <th><img class="autoResizeImage" src='http://cfile9.uf.tistory.com/original/27631737523BDEB427B373' style="margin: 3px; max-height: 79px;"></th>
+        <th><img class="autoResizeImage" src='http://cfile28.uf.tistory.com/image/215C3F42561B7B0C3306F6' style="margin: 3px; max-width: 176px;"></th>
         <th><img class="autoResizeImage" src='http://cfile23.uf.tistory.com/image/151C984A4F5D56770F7448' style="margin: 3px; max-width: 156px;"></th>
     </tr>
     <tr>
         <th><img class="autoResizeImage" src='http://www.mpress.kr/news/photo/201512/1742_1069_2636.jpg' style="margin: 3px;"></th>  
         <th><img class="autoResizeImage" src='http://img.etnews.com/photonews/1611/880801_20161109162921_634_0001.jpg' style="margin: 3px; max-height: 75px;"></th>
-        <th><img class="autoResizeImage" src='https://www.ifez.go.kr/images/site/frt/sub/m7/bi_tab_img01.jpg' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='https://www.ifez.go.kr/images/site/frt/sub/m7/bi_tab_img01.jpg' style="margin: 3px; max-height: 85px;"></th>
     </tr>
     <tr>
         <th><img class="autoResizeImage" src='http://pimage.design.co.kr/cms/contents/direct/info_id/46827/1233731686111.jpg' style="margin: 3px;"></th>  
-        <th><img class="autoResizeImage" src='http://cdn.besuccess.com/wp-content/uploads/2015/05/%EC%9D%B4%EB%8B%88%EC%85%9C%EA%B5%AD%EB%AC%B8%EC%A1%B0%ED%95%A9.png' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='http://cdn.besuccess.com/wp-content/uploads/2015/05/%EC%9D%B4%EB%8B%88%EC%85%9C%EA%B5%AD%EB%AC%B8%EC%A1%B0%ED%95%A9.png' style="margin: 3px; max-height: 31px;"></th>
         <th><img class="autoResizeImage" src='http://www.alio.go.kr/upload/report/2017/04/10/2017041008437700/%ED%95%9C%EA%B5%AD%ED%8A%B9%ED%97%88%EC%A0%95%EB%B3%B4%EC%9B%90%20ci.jpg' style="margin: 3px; max-height: 42px;"></th>
     </tr>
 </table>
