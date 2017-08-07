@@ -14,6 +14,7 @@ th, td {
     width: 100%;
     max-height: 111.2px;
     padding: 10px;
+    align: center;
 }
 
 @media screen and (max-width: 750px) {
