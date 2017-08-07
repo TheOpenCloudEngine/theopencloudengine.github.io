@@ -13,7 +13,7 @@ th, td {
     word-wrap: break-word;
     width: 100%;
     border: 1px solid #000000;
-    max-height: 140px;
+    max-height: 111.2px;
     padding: 10px;
 }
 
