@@ -34,13 +34,13 @@ th, td {
 
 <table>
     <tr>
-        <th><img class="autoResizeImage" src='../assets/img/case/case01/ksf.png' style="margin: 3px;"></th>
-        <th><img class="autoResizeImage" src='../assets/img/case/case01/kdb.jpg' style="margin: 3px;"></th>
-         <th><img class="autoResizeImage" src='../assets/img/case/case01/woori.jpg' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case01/ksf.png' style="margin: 3px; max-height: 107px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case01/kdb.jpg' style="margin: 3px; max-height: 126px;"></th>
+         <th><img class="autoResizeImage" src='../assets/img/case/case01/woori.jpg' style="margin: 3px; height: 2px; width: 2px;"></th>
     </tr>
     <tr>
-        <th><img class="autoResizeImage" src='../assets/img/case/case01/kcb.png' style="margin: 3px;"></th>  
-        <th><img class="autoResizeImage" src='../assets/img/case/case01/koramco.jpg' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case01/kcb.png' style="margin: 3px; max-height: 184px;"></th>  
+        <th><img class="autoResizeImage" src='../assets/img/case/case01/koramco.jpg' style="margin: 3px; max-height: 73px;"></th>
     </tr>
 </table>
 
