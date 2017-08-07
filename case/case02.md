@@ -67,7 +67,7 @@ th, td {
 <table>
     <tr>
         <th><img class="autoResizeImage" src='http://www.breaknews.com/imgdata/breaknews_com/201612/2016120527481893.jpg' style="margin: 3px; max-height: 61px;"></th>
-        <th><img class="autoResizeImage" src='http://www.gpkorea.com/data/cheditor4/1402/4801824c2fc7fac37b08393118c3afdb_1391564017.21.jpg' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='http://www.gpkorea.com/data/cheditor4/1402/4801824c2fc7fac37b08393118c3afdb_1391564017.21.jpg' style="margin: 3px; max-height: 71px;"></th>
         <th><img class="autoResizeImage" src='https://www.fujixerox.co.kr/View/front/common_v5/src/kor/images/logo.gif' style="margin: 3px;"></th>
     </tr>
     <tr>
