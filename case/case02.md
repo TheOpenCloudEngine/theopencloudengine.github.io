@@ -22,6 +22,7 @@ th, td {
     word-wrap: break-word;
     width: 100%;
     padding: 10px;
+    text-align: center;
 }
 
 @media screen and (max-width: 750px) {
