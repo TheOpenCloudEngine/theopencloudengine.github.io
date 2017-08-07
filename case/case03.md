@@ -36,12 +36,12 @@ th, td {
 
 <table>
     <tr>
-        <th><img class="autoResizeImage" src='../asset/img/case/case03/hanhwa.png' style="margin: 3px; max-height: 87px;"></th>
-        <th><img class="autoResizeImage" src='../asset/img/case/case03/posco.png' style="margin: 3px; max-height: 195px;"></th>
-         <th><img class="autoResizeImage" src='../asset/img/case/case03/unionnec.png' style="margin: 3px; max-height: 148px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case03/hanhwa.png' style="margin: 3px; max-height: 87px;"></th>
+        <th><img class="autoResizeImage" src='../assets/img/case/case03/posco.png' style="margin: 3px; max-height: 195px;"></th>
+         <th><img class="autoResizeImage" src='../assets/img/case/case03/unionnec.png' style="margin: 3px; max-height: 148px;"></th>
     </tr>
     <tr>
-        <th><img class="autoResizeImage" src='../asset/img/case/case03/skcc.png' style="margin: 3px; max-height: 148px;"></th>  
+        <th><img class="autoResizeImage" src='../assets/img/case/case03/skcc.png' style="margin: 3px; max-height: 148px;"></th>  
         <th></th>
         <th></th>
     </tr>
@@ -57,7 +57,7 @@ th, td {
 이는 전사 프로세스의 표준화를 이룰 수 있습니다. </p>   
   <table>
     <tr>
-      <th><img class="autoResizeImage" src='../asset/img/case/case03/skt.png' style="margin: 3px; max-height: 109px;"></th>
+      <th><img class="autoResizeImage" src='../assets/img/case/case03/skt.png' style="margin: 3px; max-height: 109px;"></th>
         <th></th>
         <th></th>
     </tr>
