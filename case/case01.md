@@ -31,7 +31,7 @@ showgroup: true
 <p style="margin:20px;"> uEngine BPMS는 금융 업무로 개인대출, 기업대출, PF대출, 여신심사 등과 관련하여 프로세스별, 업무별, 개인별, 조직별 효율을 측정하거나 실시간 모니터링을 관리할 수 있습니다.  
 또한 사전심사 범위의 축소 및 자동화와 심사 후 사후 처리 업무에 대해 효율성을 증대할 수 있습니다. </p>
 
-  <table style="border-collapse:collapse; border: 1px solid #000000;">
+  <table>
     <tr>
       <th><img class="autoResizeImage" src='http://cfile10.uf.tistory.com/image/22406C36550A7C480503B9' style="margin: 3px;"></th>
       <th><img class="autoResizeImage" src='http://cfile7.uf.tistory.com/image/136BB448509BB66D2BC590' style="margin: 3px;"></th>
