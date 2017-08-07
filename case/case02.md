@@ -76,8 +76,8 @@ th, td {
         <th><img class="autoResizeImage" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hyundai_Merchant_Marine.svg/2000px-Hyundai_Merchant_Marine.svg.png' style="margin: 3px; max-height: 71px;"></th>
     </tr>
     <tr>
-        <th><img class="autoResizeImage" src='http://businesskorea.co.kr/sites/default/files/field/image/Daewoo%20enc_1_0.jpg' style="margin: 3px;"></th>  
-        <th><img class="autoResizeImage" src='http://news20.busan.com/content/image/2009/09/25/20090925000188_0.jpg' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='http://businesskorea.co.kr/sites/default/files/field/image/Daewoo%20enc_1_0.jpg' style="margin: 3px; max-height: 34px;"></th>  
+        <th><img class="autoResizeImage" src='http://news20.busan.com/content/image/2009/09/25/20090925000188_0.jpg' style="margin: 3px; max-height: 34px;"></th>
         <th></th>
     </tr>
 </table>
