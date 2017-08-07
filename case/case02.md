@@ -73,7 +73,7 @@ th, td {
     <tr>
         <th><img class="autoResizeImage" src='http://kyung-dong.com/template/s150319001001/images/logo.png' style="margin: 3px;"></th>  
         <th><img class="autoResizeImage" src='http://www.image114.co.kr/files/attach/images/10883/742/043/466b6b6fa4afa601df77874e5b8017ac.png' style="margin: 3px;"></th>
-        <th><img class="autoResizeImage" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hyundai_Merchant_Marine.svg/2000px-Hyundai_Merchant_Marine.svg.png' style="margin: 3px;"></th>
+        <th><img class="autoResizeImage" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hyundai_Merchant_Marine.svg/2000px-Hyundai_Merchant_Marine.svg.png' style="margin: 3px; max-height: 71px;"></th>
     </tr>
     <tr>
         <th><img class="autoResizeImage" src='http://businesskorea.co.kr/sites/default/files/field/image/Daewoo%20enc_1_0.jpg' style="margin: 3px;"></th>  
