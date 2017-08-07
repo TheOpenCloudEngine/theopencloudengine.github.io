@@ -3,7 +3,7 @@ layout: default
 permalink: /case/case01
 showgroup: true
 ---
-
+<style>
 table {
     width: 100%;
     text-align: left;
@@ -20,7 +20,7 @@ th, td {
     thead { min-width: 120px }
     td,th { display: block }
 }
-
+</style>
 
 <h2 style="margin-left: 7px;">금융</h2>
 <p style="margin:20px;"> uEngine BPMS는 금융 업무로 개인대출, 기업대출, PF대출, 여신심사 등과 관련하여 프로세스별, 업무별, 개인별, 조직별 효율을 측정하거나 실시간 모니터링을 관리할 수 있습니다.  
