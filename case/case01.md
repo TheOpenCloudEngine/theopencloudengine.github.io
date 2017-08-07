@@ -24,8 +24,9 @@ th, td {
 }
 
 .autoResizeImage {
-    max-width: 80%;
-    max-height: 80%;
+    width: 90%;
+    height: 90%;
+    max-height:130.4
 }
 </style>
 
