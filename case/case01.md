@@ -14,6 +14,7 @@ th, td {
     width: 100%;
     border: 1px solid #000000;
     max-height: 140px;
+    padding: 10px;
 }
 
 @media screen and (max-width: 750px) {
