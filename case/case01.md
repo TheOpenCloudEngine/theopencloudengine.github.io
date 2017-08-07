@@ -55,6 +55,8 @@ th, td {
   <table>
     <tr>
       <th><img class="autoResizeImage" src='http://l.incru.it/2008/12/%EB%8C%80%ED%95%9C%EC%83%9D%EB%AA%85(%EA%B0%80%EB%A1%9C).jpg' style="margin: 3px;"></th>
+        <th></th>
+        <th></th>
     </tr>
 
   </table>
