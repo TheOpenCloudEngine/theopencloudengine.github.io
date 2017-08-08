@@ -5,7 +5,7 @@ title: CODI
 permalink: /products/sns
 intro: 마크다운
 banner: ../assets/img/banner/banner-4.jpg
-video: <iframe width="100%" height="315" src="https://www.youtube.com/embed/RROqH1DgisQ?ecver=2" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
+video: <iframe width="100%" height="315" src="https://www.youtube.com/embed/pSm6hbfNn20?ecver=2" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 github: https://github.com/TheOpenCloudEngine/process-codi
 
 ---
