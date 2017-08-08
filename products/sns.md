@@ -67,6 +67,7 @@ daofactory.class=org.uengine.persistence.dao.MySQLDAOFactory 를 제외한 나�
     2) jdbc.url=jdbc:mysql로 시작되는 줄을 제외한 나머지 jdbc.url=jdbc:[db종류]는 #을 붙여 주석처리를 해놓는다.
     3) jdbc.url=jdbc:mysql://[DB접속 주소]:[DB포트]/[DB스키마 명]?useUnicode=true&amp;characterEncoding=UTF8 로 mysql 접속을 설정한다.
     4) 하단의 jdbc.username=[DB 접속 계정명] jdbc.password=[DB 접속 패스워드]를 설정한다.
+4. 최하단의 Domain="processcodi.com"으로 작성 되어있는 부분을 수정하면 회원가입 확인 이메일 주소가 바뀐다.
 ```
 ***
 <br>
