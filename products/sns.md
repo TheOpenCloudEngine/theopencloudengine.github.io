@@ -33,16 +33,21 @@ github: https://github.com/TheOpenCloudEngine/process-codi
 MySQL 설치 후, Schema 생성을 한다.
 
 생성된 Schema에 Tomcat/webapps/ROOT/resource/mysql 안에있는 processcodi.sql을 Import 한다.
+```
+sql 파일이 있는 디렉토리에서 mysql 접속 후,
+
+source ./sql명.sql
+```
 
 ***
 <br>
 ### 4. ProcessCodi war 다운로드
-[WAR Download](https://oss.sonatype.org/content/repositories/snapshots/org/uengine/process-codi/1.0.0r-SNAPSHOT/process-codi-1.0.0r-20170803.045936-1.war) 좌측의 'WAR Download'버튼을 클릭하여 ProcessCodi war파일을 다운받은후, 2번에서 해제한 Tomcat 폴더의 webapp 폴더로 이동시킨다.
+[WAR Download](https://oss.sonatype.org/content/repositories/snapshots/org/uengine/process-codi/1.0.0r-SNAPSHOT/process-codi-1.0.0r-20170803.045936-1.war) 좌측의 'WAR Download'버튼을 클릭하여 ProcessCodi war파일을 다운받은후, 2번에서 해제한 Tomcat/webapps/ROOT 폴더로 이동시킨다.
 
 ***  
 <br>
 ### 5. war파일 해제
-command창을 이용하여 Tomcat/webapp 폴더에 접근 후, 
+command창을 이용하여 Tomcat/webapps/ROOT 폴더에 접근 후, 
 ```
 jar -xvf [war파일 명].war
 ```
