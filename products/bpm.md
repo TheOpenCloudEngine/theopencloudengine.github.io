@@ -16,7 +16,7 @@ guide: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
 
 # 왜 유엔진에서는 BPM 제품을 오픈소스화 한 것인가요?
 
-![](http://uengine.org/html/images/about/OpenSourceimg.gif)
+![](../assets/img/uengine/bpm1.png)
 
 국내에 BPM이 소개된지도 약 10여년이 되어갑니다. 
 
@@ -88,7 +88,7 @@ BPM 시스템이 업무간의 전이를 담당하여 개인별 평균 업무 생
   
 # 유엔진 BPM은 어떠한 아키텍처적 장점이 있습니까?
 
-![](http://uengine.org/html/images/about/architecture_img.gif)
+![](../assets/img/uengine/bpm2.png)
 
 BPM도입에서의 고려사항 중 기술적인 내용과 관계있는 사항은, 얼마나 용이하게 커스터마이징 가능한가와 우리 조직 시스템 환경에 부담없이 쉽게 융합될 수 있느냐, 입니다. 
 이러한 커스터마이저빌리티와 리스크 낮은 융합을 위해 유엔진BPMS의 아키텍처는 "객체지향 컴포넌트 프레임워크"의 접근방식인 IoC (제어권의 반전)과 "설계의 재사용"의 컨셉을 적용하고 있습니다. 
