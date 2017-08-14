@@ -27,65 +27,77 @@ github: https://github.com/TheOpenCloudEngine/process-codi
    </div>
 
    <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature0.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+    <img src="../assets/img/uengine/sns/index_con05.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
    </div>
   </div>
 
   <div class="row" style="margin-top: 35px">
    <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature1.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+    <img src="../assets/img/uengine/sns/index_con01.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
    </div>
    <div class="col-md-7">
-    <h2 class="font-30 mb-30">멀티 테넌시</h2>
+    <h2 class="font-30 mb-30">프로세스 개선</h2>
 
-    <p>멀티 테넌시로 조직마다 서로 다른 과금 규칙과 플랜을 운용하고, 별도의 수금 계좌를 운용 할 수 있습니다.</p>
+    <p>코디는 그룹 내 사용하고 있는 혹은 사용하고자 하는 프로세스의 사용이 가능합니다.
+ 
+ 휴가신청 및 일정관리, 연락처 관리부터 결재, 영업관리 등 그룹 내에서 등록한 프로세스의 실행이 즉각적으로 이루어지며,
+ 플랫폼 내에서 업무의 진행 사항을 확인 할 수 있는 등 기존 BPM의 이점을 그대로 활용 가능합니다.</p>
    </div>
   </div>
 
   <div class="row" style="margin-top: 35px">
    <div class="col-md-7">
-    <h2 class="font-30 mb-30">플랜 관리</h2>
+    <h2 class="font-30 mb-30">소셜 워크플로우(UC)</h2>
 
-    <p>일회성, 리커링, 사용량 기반 플랜을 지원하고, 하나의 플랜 안에 여러개의 결제 단계를 설정하실 수 있습니다.
-
-     Trial, Discount, Evergreen 등의 결제 단계를 원하는 기간만큼 설정할 수 있고, 다양한 결제 주기를 지원합니다. </p>
+    <p>그룹 내 친구를 추가하여 지식을 공유 할 수 있고 소셜 네트워크의 친구들과의 커뮤니케이션도 업무에 활용해 보세요.
+ 
+    소셜네트워크의 친구와 채팅을 통해 혹은 나의 업무를 담벼락에 공유하여 소셜 네트워크 친구들의 의견을 업무에 적극 수용 할 수 있습니다.
+    
+ 멀리 떨어진 친구와는 화상회의를 통하여 소통이 가능합니다. 기업 내 혹은 외부의 넓은 네트워크망을 이용하여 창의적인 의사소통으로 향상된 업무능력을 선보이시길 바랍니다. </p>
 
    </div>
 
    <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature2.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+    <img src="../assets/img/uengine/sns/index_con02.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
    </div>
   </div>
 
   <div class="row" style="margin-top: 35px">
    <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature3.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+    <img src="../assets/img/uenginesns/index_con03.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
    </div>
 
    <div class="col-md-7">
-    <h2 class="font-30 mb-30">구독 관리</h2>
+    <h2 class="font-30 mb-30">파일(문서)관리</h2>
 
-    <p>구독의 시작, 일시정지, 재시작, 사용량 추가, 잠금, 파기 등의 라이프 사이클을 지원하며, 이는 고객의 결제 상태나 연체 상태에 따라 자동으로 변화하거나,
-     또는 ADMIN API 를 통해 컨트롤 할 수 있습니다.</p>
-    <p>기본 구독(BASE) 과 부가서비스 구독(ADD-ON) 을 합산한 BUNDLE Subscription 을 지원하며,
-     이는 고객의 결제 주기에 맞추어 다수의 구독건에 대해 일할 청구 및 하나의 인보이스로 발송하게 해 주는 기능입니다. </p>
+    <p>코디는 컨텐츠의 한 영역으로 문서를 관리합니다.
+ 
+ 이미지, 워드, 파워포인트, 엑셀 등 문서의 미리보기를 지원하여 다운로드 없이 플랫폼 내에서 문서의 내용을 손쉽게 확인 할 수 있습니다.
+ 
+ 문서의 미리보기 영역에 직접 의견을 공유할 수 있습니다. 원하는 포지션에 “코멘트 달기”를 통해서 의견을 공유해 보세요.
+ 
+ 또한 문서의 고급 관리로 문서를 버전별로 업로드 가능합니다. 이전에 업로드한 문서의 손실 없이 미리보기 및 다운로드 할 수 있습니다.
+ 
+ 또한 문서 내 키워드 검색이 가능합니다.
+ 
+ 이제 코디에서 문서에 실시간으로 의견을 공유하고 표시된 영역의 화면을 캡쳐하여 원활한 소통의 도구로 활용해보세요.</p>
    </div>
 
   </div>
 
   <div class="row" style="margin-top: 35px">
    <div class="col-md-7">
-    <h2 class="font-30 mb-30">빌링</h2>
+    <h2 class="font-30 mb-30">개인직무 및 프로젝트 관리</h2>
 
-    <p>귀사의 서비스가 성공적으로 SaaS 화 되고, 실제로 고객들로부터 구독료를 받기 시작하게 되면서 예상치 못한 많은 문제가 일어나게 됩니다.
-
-     국가별로 준수해야 하는 법령도 문제이고, 귀사의 Terms 에 따라 서비스 중단 및 환불을 착오없이 진행하여야 분란의 소지를 사전에 방지할 수 있습니다.</p>
-
-    <p>그 외에도 귀사의 조직별, 또는 구매자 별로 다양한 옵션의 결제 규칙을 선택하고, 유연하게 운용하는 것이 중요합니다.</p>
+    <p>담벼락에 달력을 통해 자신의 업무를 효과적으로 관리 할 수 있습니다.
+ 
+ 캘린더의 업무를 등록하고, 알림 예약을 통해 지정한 시간에 업무 알림을 받을 수 있습니다.
+ 
+ 자신이 진행 하여야 할 업무는 “내가 해야할일(TODO List)”에서 따로 확인 할 수 있으며, 간트차트를 통하여 프로젝트의 진행상태를 모니터링 할 수 있습니다.</p>
    </div>
 
    <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature4.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+    <img src="../assets/img/uengine/sns/index_con04.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
    </div>
   </div>
 
@@ -95,86 +107,15 @@ github: https://github.com/TheOpenCloudEngine/process-codi
    </div>
 
    <div class="col-md-7">
-    <h2 class="font-30 mb-30">사용량 기반(Usage) 과금</h2>
+    <h2 class="font-30 mb-30">집단지성/매시업</h2>
 
-    <p>사용량에 따른 단계별 과금(Tier) 을 책정한 후, 미터링 집계 API 를 통해 인보이스에 합산 청구할 수 있습니다.
-     후지급 방식과 선지급 방식, 소모적, 용량적 옵션을 제어함으로써 클라우드 리소스 제한, 모바일 문자 한도 등의 다양한 경우에 활용될 수 있습니다.</p>
+    <p>팀간 혹은 그룹간 더 나아가서 기업간의 공동 작업 공간을 구성합니다. 지식맵을 통하여 집단 지성의 커뮤니티를 구성 할 수 있습니다.
+ 
+ 지식맵은 wiki의 컨텐츠, 슬라이드쉐어의 슬라이드, 유투브의 동영상, 구글의 이미지 등으로 외부의 컨텐츠의 활용이 가능합니다.
+ 
+ 실시간으로 검색되는 컨텐츠를 이용하여 지식맵을 구성해 보세요.</p>
    </div>
 
-  </div>
-
-  <div class="row" style="margin-top: 35px">
-   <div class="col-md-7">
-    <h2 class="font-30 mb-30">연체 고객 대응</h2>
-
-    <p>결제 기한을 초과한 고객에 대한 결제 재시도 및 연체 상태를 설정하고, 연체 상태에 따라 서비스를 제한하거나 고객에게 재결제를 유도할 수 있습니다.</p>
-
-   </div>
-
-   <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature6.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
-   </div>
-  </div>
-
-  <div class="row" style="margin-top: 35px">
-   <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature7.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
-   </div>
-
-   <div class="col-md-7">
-    <h2 class="font-30 mb-30">템플릿</h2>
-
-    <p>인보이스부터 시작하여, 결제 성공,실패,연체,구독 상태 알림 등 많은 이벤트에 따라 고객에게 발송되는 이메일의 종류가 다를 수 있습니다.
-     기본 제공되는 템플릿 이외에도 직접 템플릿을 작성할 수 있으며, 다국어 템플릿을 지원합니다.</p>
-   </div>
-  </div>
-
-  <div class="row" style="margin-top: 35px">
-   <div class="col-md-7">
-    <h2 class="font-30 mb-30">국제화</h2>
-
-    <p>다국어 통화를 지원하고, Tax 를 각기 다르게 책정할 수 있습니다.</p>
-
-   </div>
-
-   <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature8.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
-   </div>
-  </div>
-
-  <div class="row" style="margin-top: 35px">
-   <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature9.png" class="img-responsive " alt="Image style="box-shadow : 2px 2px 10px silver">
-   </div>
-   <div class="col-md-7">
-    <h2 class="font-30 mb-30">결제 수단</h2>
-
-    <p>기본으로 Paypal, Stripe 등 글로벌 PG 를 지원하고, Plugin Api 를 통해 국내 PG 사와 쉽게 연동할 수 있습니다.</p>
-   </div>
-  </div>
-
-  <div class="row" style="margin-top: 35px">
-   <div class="col-md-7">
-    <h2 class="font-30 mb-30">마켓플레이스</h2>
-
-    <p>제품의 공급자를 설정하고 제품의 판매 성과에 따라 공급자에게 수익률을 배분하거나, Credit 을 지불할 수 있습니다.</p>
-
-   </div>
-
-   <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature10.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
-   </div>
-  </div>
-
-  <div class="row" style="margin-top: 35px;margin-bottom: 35px">
-   <div class="col-md-5">
-    <img src="../assets/img/uengine/billing/feature11.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
-   </div>
-   <div class="col-md-7">
-    <h2 class="font-30 mb-30">Analytics</h2>
-
-    <p>20 가지의 통계 지표를 기본으로 제공하고, 커스텀 Analytics 쿼리 및 필터를 직접 작성하여 귀사만의 통계 그래프를 구현할 수 있습니다.</p>
-   </div>
   </div>
  </div><!-- /.container -->
 
