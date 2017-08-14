@@ -10,6 +10,177 @@ github: https://github.com/TheOpenCloudEngine/process-codi
 
 ---
 
+<section class="padding-top-110">
+ <div class="container">
+
+  <div class="text-center mb-80">
+   <h2 class="section-title text-uppercase">Features</h2>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">토큰 기반 통합 인증 지원</h2>
+
+    <p>Oauth 2.0 을 지원하는 어떤 통합 인증 시스템과도 연동될 수 있습니다.
+     <a>IAM</a> 통합 인증 시스템의 튜토리얼을 통해 귀사의 고객으로 하여금 하나의 아이디로 다양한 서비스를 이용할 수 있도록 하십시오.</p>
+
+   </div>
+
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature0.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature1.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">멀티 테넌시</h2>
+
+    <p>멀티 테넌시로 조직마다 서로 다른 과금 규칙과 플랜을 운용하고, 별도의 수금 계좌를 운용 할 수 있습니다.</p>
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">플랜 관리</h2>
+
+    <p>일회성, 리커링, 사용량 기반 플랜을 지원하고, 하나의 플랜 안에 여러개의 결제 단계를 설정하실 수 있습니다.
+
+     Trial, Discount, Evergreen 등의 결제 단계를 원하는 기간만큼 설정할 수 있고, 다양한 결제 주기를 지원합니다. </p>
+
+   </div>
+
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature2.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature3.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">구독 관리</h2>
+
+    <p>구독의 시작, 일시정지, 재시작, 사용량 추가, 잠금, 파기 등의 라이프 사이클을 지원하며, 이는 고객의 결제 상태나 연체 상태에 따라 자동으로 변화하거나,
+     또는 ADMIN API 를 통해 컨트롤 할 수 있습니다.</p>
+    <p>기본 구독(BASE) 과 부가서비스 구독(ADD-ON) 을 합산한 BUNDLE Subscription 을 지원하며,
+     이는 고객의 결제 주기에 맞추어 다수의 구독건에 대해 일할 청구 및 하나의 인보이스로 발송하게 해 주는 기능입니다. </p>
+   </div>
+
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">빌링</h2>
+
+    <p>귀사의 서비스가 성공적으로 SaaS 화 되고, 실제로 고객들로부터 구독료를 받기 시작하게 되면서 예상치 못한 많은 문제가 일어나게 됩니다.
+
+     국가별로 준수해야 하는 법령도 문제이고, 귀사의 Terms 에 따라 서비스 중단 및 환불을 착오없이 진행하여야 분란의 소지를 사전에 방지할 수 있습니다.</p>
+
+    <p>그 외에도 귀사의 조직별, 또는 구매자 별로 다양한 옵션의 결제 규칙을 선택하고, 유연하게 운용하는 것이 중요합니다.</p>
+   </div>
+
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature4.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature5.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver"> 
+   </div>
+
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">사용량 기반(Usage) 과금</h2>
+
+    <p>사용량에 따른 단계별 과금(Tier) 을 책정한 후, 미터링 집계 API 를 통해 인보이스에 합산 청구할 수 있습니다.
+     후지급 방식과 선지급 방식, 소모적, 용량적 옵션을 제어함으로써 클라우드 리소스 제한, 모바일 문자 한도 등의 다양한 경우에 활용될 수 있습니다.</p>
+   </div>
+
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">연체 고객 대응</h2>
+
+    <p>결제 기한을 초과한 고객에 대한 결제 재시도 및 연체 상태를 설정하고, 연체 상태에 따라 서비스를 제한하거나 고객에게 재결제를 유도할 수 있습니다.</p>
+
+   </div>
+
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature6.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature7.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">템플릿</h2>
+
+    <p>인보이스부터 시작하여, 결제 성공,실패,연체,구독 상태 알림 등 많은 이벤트에 따라 고객에게 발송되는 이메일의 종류가 다를 수 있습니다.
+     기본 제공되는 템플릿 이외에도 직접 템플릿을 작성할 수 있으며, 다국어 템플릿을 지원합니다.</p>
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">국제화</h2>
+
+    <p>다국어 통화를 지원하고, Tax 를 각기 다르게 책정할 수 있습니다.</p>
+
+   </div>
+
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature8.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature9.png" class="img-responsive " alt="Image style="box-shadow : 2px 2px 10px silver">
+   </div>
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">결제 수단</h2>
+
+    <p>기본으로 Paypal, Stripe 등 글로벌 PG 를 지원하고, Plugin Api 를 통해 국내 PG 사와 쉽게 연동할 수 있습니다.</p>
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">마켓플레이스</h2>
+
+    <p>제품의 공급자를 설정하고 제품의 판매 성과에 따라 공급자에게 수익률을 배분하거나, Credit 을 지불할 수 있습니다.</p>
+
+   </div>
+
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature10.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px;margin-bottom: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/billing/feature11.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">Analytics</h2>
+
+    <p>20 가지의 통계 지표를 기본으로 제공하고, 커스텀 Analytics 쿼리 및 필터를 직접 작성하여 귀사만의 통계 그래프를 구현할 수 있습니다.</p>
+   </div>
+  </div>
+ </div><!-- /.container -->
+
+</section>
+
+
 <br>
 
 # 설치 방법
