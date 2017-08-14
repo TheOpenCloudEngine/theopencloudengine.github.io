@@ -3,7 +3,7 @@ category: products
 layout: products
 title: CODI
 permalink: /products/sns
-intro: 마크다운
+intro: 코디는 기업용 Social Network Service 입니다.
 banner: ../assets/img/banner/banner-4.jpg
 video: <iframe width="100%" height="315" src="https://www.youtube.com/embed/pSm6hbfNn20?ecver=2" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 github: https://github.com/TheOpenCloudEngine/process-codi
