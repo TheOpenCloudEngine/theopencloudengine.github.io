@@ -1,6 +1,6 @@
 ---
 category: products
-layout: products
+layout: product
 title: ESSENCIA
 permalink: /products/essencia
 intro: 소프트웨어 개발 프로세스의 관리는 더이상 소프트웨어 전문 기업만의 일이 아닙니다. 기존의 산업 영역들에서도 소프트웨어를 개발하고 관리해야 하는 
