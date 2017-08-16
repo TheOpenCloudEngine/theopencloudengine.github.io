@@ -43,9 +43,7 @@ layout: default
 </section>
 <!-- Hero Section End -->
 
-{% if page.title == "uEngine Billing" %}
-{{content}}
-{% elseif page.title == "CODI" %}
+{% if page.title == "uEngine Billing" || "CODI"%}
 {{content}}
 {% else %}
 <div class="container markdown">
