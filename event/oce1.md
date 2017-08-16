@@ -8,7 +8,7 @@ showgroup: true
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-eaxe{background-color:#fffe65;text-align:center}
+.tg .tg-eaxe{text-align:center}
 .tg .tg-s6z2{text-align:center}
 .tg .tg-9e4x{text-align:center}
 .tg .tg-c7lo{text-align:center}
