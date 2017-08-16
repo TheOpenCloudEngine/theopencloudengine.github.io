@@ -10,11 +10,11 @@ showgroup: true
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-eaxe{background-color:#fffe65;text-align:center}
 .tg .tg-s6z2{text-align:center}
-.tg .tg-9e4x{background-color:#cbcefb;text-align:center}
-.tg .tg-c7lo{background-color:#9aff99;text-align:center}
+.tg .tg-9e4x{text-align:center}
+.tg .tg-c7lo{text-align:center}
 .tg .tg-h0x1{text-align:center}
-.tg .tg-lfnm{background-color:#cbcefb;text-align:center}
-.tg .tg-giv5{background-color:#fffe65;text-align:center}
+.tg .tg-lfnm{text-align:center}
+.tg .tg-giv5{text-align:center}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
   <tr>
