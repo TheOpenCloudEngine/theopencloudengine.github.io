@@ -9,7 +9,7 @@ intro: 소프트웨어 개발 프로세스의 관리는 더이상 소프트웨�
                        유엔진은 KAIST 와 함께 OMG Essence를 적용하여 소프트웨어 진척도를 관리하고 다양한 방법론을 BPMN 프로세스로 각 프로젝트 담당자에게 
                        직무와 완료 조건 (체크포인트) 보내어 어려운 소프트웨어 프로세스를 관리할 수 있도록 해주는 세계최초의 도구인 Essencia 를 제공하고 있습니다.
 banner: ../assets/img/banner/banner-4.jpg
-video: 마크다운 
+video: <iframe width="100%" height="315" src="https://www.youtube.com/embed/Zogksb6TWao?ecver=" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 github: https://github.com/TheOpenCloudEngine/essencia
 
 ---
