@@ -8,6 +8,7 @@ banner: ../assets/img/banner/banner-4.jpg
 video: <iframe width="100%" height="315" src="https://www.youtube.com/embed/izc_c1N3xkw" frameborder="0" allowfullscreen="" class="style-scope oce-sampler"></iframe>
 github: https://github.com/TheOpenCloudEngine/metaworks4
 homepage: http://www.metaworks4.io
+facebook: https://www.facebook.com/groups/metaworks/
 
 ---
 
