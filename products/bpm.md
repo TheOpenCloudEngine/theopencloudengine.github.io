@@ -8,8 +8,8 @@ intro: 급변하는 비즈니스 프로세스를 고착화된 코드에서 분�
                      기업의 프로세스를 관리하고 지속적인 개선을 수행할 수 있도록 하는 프로세스 혁신 기능과 소셜 네트워크 기반의 포털을 통하여 창의적인 프로세스 협업을 가능하게하는 
                      두가지 통제와 혁신의 관점의 UI/UX 를 통합하는 UI를 제공합니다. 기업은행, LG 디스플레이, SK 텔레콤 등 굴지의 금융과 통신 기업에서 검증된 uEngine BPMS를 통한 혁신 사례를 만드시기 바랍니다.
 banner: ../assets/img/banner/banner-4.jpg
-video: <iframe width="100%" height="315" src="https://video.ficn1-1.fna.fbcdn.net/v/t43.1792-2/12215375_1666147907003420_1769061123_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTI3OCwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=194&oh=b34f1debe5a70683c49501e890795cff&oe=599A5E99" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
-video2: <iframe width="100%" height="315" src="https://video.ficn1-1.fna.fbcdn.net/v/t43.1792-2/12069583_1671869493025565_1488046701_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTAyNCwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=183&oh=a0da0ab7cb800e7a12c8db4f53e51fc9&oe=599A4CC5" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
+video: <video width="100%" height="315" src="https://video.ficn1-1.fna.fbcdn.net/v/t43.1792-2/12215375_1666147907003420_1769061123_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTI3OCwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=194&oh=b34f1debe5a70683c49501e890795cff&oe=599A5E99" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></video>
+video2: <video width="100%" height="315" src="https://video.ficn1-1.fna.fbcdn.net/v/t43.1792-2/12069583_1671869493025565_1488046701_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTAyNCwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=183&oh=a0da0ab7cb800e7a12c8db4f53e51fc9&oe=599A4CC5" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></video>
 github: https://github.com/TheOpenCloudEngine/uengine-bpm
 manual: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
 guide: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
