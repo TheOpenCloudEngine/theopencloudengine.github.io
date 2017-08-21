@@ -17,12 +17,12 @@
               "url": "/products/bpm"
             },
             {
-              "name": "Essencia",
-              "url": "/products/essencia"
-            },
-            {
               "name": "SNS",
               "url": "/products/sns"
+            },
+            {
+              "name": "ALM",
+              "url": "/products/essencia"
             }
           ]
         },
@@ -31,16 +31,16 @@
           "col": 4,
           "child": [
             {
-              "name": "Garuda PaaS",
+              "name": "PaaS",
               "url": "/products/pass"
-            },
-            {
-              "name": "uEngine Billing",
-              "url": "/products/billing"
             },
             {
               "name": "IAM/API Gateway",
               "url": "/products/iam-gw"
+            },
+            {
+              "name": "SaaS Billing",
+              "url": "/products/billing"
             }
           ]
         },
@@ -49,13 +49,14 @@
           "col": 4,
           "child": [
             {
-              "name": "Open Graph",
-              "url": "/products/og"
+              "name": "UI/MSA Platform",
+              "url": "/products/mw4"
             },
             {
-              "name": "Metaworks4",
-              "url": "/products/mw4"
+              "name": "Graph Library",
+              "url": "/products/og"
             }
+
           ]
         }
       ]
