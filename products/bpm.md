@@ -11,6 +11,7 @@ banner: ../assets/img/banner/banner-4.jpg
 video: <iframe width="100%" height="315" src="https://video.ficn1-1.fna.fbcdn.net/v/t43.1792-2/12215375_1666147907003420_1769061123_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTI3OCwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=194&oh=b34f1debe5a70683c49501e890795cff&oe=599A5E99" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 video2: <iframe width="100%" height="315" src="https://video.ficn1-1.fna.fbcdn.net/v/t43.1792-2/12069583_1671869493025565_1488046701_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTAyNCwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=183&oh=a0da0ab7cb800e7a12c8db4f53e51fc9&oe=599A4CC5" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 github: https://github.com/TheOpenCloudEngine/uengine-bpm
+facebook: https://www.facebook.com/groups/uenginebpm/
 manual: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
 guide: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
 
