@@ -12,8 +12,8 @@ video: <iframe width="100%" height="315" src="https://www.youtube.com/embed/2xcl
 video2: <iframe width="100%" height="315" src="https://www.youtube.com/embed/W9QyFsKzy70?ecver=2" frameborder="0" allowfullscreen="" class="style-scope uengine-products"></iframe>
 github: https://github.com/TheOpenCloudEngine/uengine-bpm
 facebook: https://www.facebook.com/groups/uenginebpm/
-manual: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
-guide: ../assets/docs/uEngine 참여개발자 가이드 v3.0.doc
+guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
+
 
 ---
 
