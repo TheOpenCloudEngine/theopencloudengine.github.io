@@ -50,9 +50,9 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
     <td class="tg-s6z2">
       <a href="https://sourceforge.net/projects/uengine/files/2.%20uengine%20packaged%20edition/" style="text-decoration-line: none;" target="_blank"><u>제품다운로드</u></a>
       <br>
-      <a href="https://uengine.org/assets/docs/ubpm.pdf" style="text-decoration-line: none;" target="_blank"><u>제품소개서</u></a>
+      <a href="http://uengine.org/assets/docs/ubpm.pdf" style="text-decoration-line: none;" target="_blank"><u>제품소개서</u></a>
       <br>
-      <a href="https://uengine.org/assets/docs/uEngine_BPMS_3.6_Quick_Guide.pdf" style="text-decoration-line: none;" target="_blank"><u>퀵스타트</u></a>
+      <a href="http://uengine.org/assets/docs/uEngine_BPMS_3.6_Quick_Guide.pdf" style="text-decoration-line: none;" target="_blank"><u>퀵스타트</u></a>
       </td>
     <td class="tg-s6z2"><a href="http://221.141.2.166:2020/uengine-web/" style="text-decoration-line: none;" target="_blank">데모보기</a><br><a href="http://221.141.2.166:2020/uengine-web/" style="text-decoration-line: none;" target="_blank">(uEngine 3.0)</a></td>
   </tr>
@@ -90,11 +90,11 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">
-      <a href="https://uengine.org/assets/docs/uJMSje.pdf" style="color: rgb(51, 102, 153); text-decoration-line: none;" target="_blank"><u>제품소개서</u></a>
+      <a href="http://uengine.org/assets/docs/uJMSje.pdf" style="color: rgb(51, 102, 153); text-decoration-line: none;" target="_blank"><u>제품소개서</u></a>
       <br>
-      <a href="https://uengine.org/assets/docs/uJMSsa.pdf" style="text-decoration-line: none;" target="_blank"><u>사용자메뉴얼</u></a>
+      <a href="http://uengine.org/assets/docs/uJMSsa.pdf" style="text-decoration-line: none;" target="_blank"><u>사용자메뉴얼</u></a>
       <br>
-      <a href="https://uengine.org/assets/docs/uJMS.pdf" style="text-decoration-line: none;" target="_blank"><u>브로셔</u></a>
+      <a href="http://uengine.org/assets/docs/uJMS.pdf" style="text-decoration-line: none;" target="_blank"><u>브로셔</u></a>
     </td>
     <td class="tg-s6z2"><a href="http://221.141.2.166:5050/uengine-web" style="text-decoration-line: none;" target="_blank"><u>데모보기</u></a></td>
   </tr>
@@ -108,9 +108,9 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">
-      <a href="https://uengine.org/assets/docs/upmt1.pdf" style="text-decoration-line: none;" target="_blank"><u>제품소개서</u></a>
+      <a href="http://uengine.org/assets/docs/upmt1.pdf" style="text-decoration-line: none;" target="_blank"><u>제품소개서</u></a>
       <br>
-      <a href="https://uengine.org/assets/docs/upmt.pdf" style="text-decoration-line: none;" target="_blank"><u>사용자메뉴얼</u></a>
+      <a href="http://uengine.org/assets/docs/upmt.pdf" style="text-decoration-line: none;" target="_blank"><u>사용자메뉴얼</u></a>
     </td>
     <td class="tg-s6z2"></td>
   </tr>
@@ -124,9 +124,9 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
     <td class="tg-s6z2">●</td>
     <td class="tg-s6z2">기업용<br>SNS 서비스</td>
     <td class="tg-s6z2">
-      <a href="https://sites.google.com/a/uengine.org/processcodi/downloads" style="text-decoration-line: none;" target="_blank"><u>제품다운로드</u></a>
+      <a href="http://sites.google.com/a/uengine.org/processcodi/downloads" style="text-decoration-line: none;" target="_blank"><u>제품다운로드</u></a>
       <br>
-      <a href="https://uengine.org/assets/docs/ucodi.pdf" style="text-decoration-line: none;" target="_blank"><u>브로셔</u></a>
+      <a href="http://uengine.org/assets/docs/ucodi.pdf" style="text-decoration-line: none;" target="_blank"><u>브로셔</u></a>
     </td>
     <td class="tg-s6z2"><a href="http://www.processcodi.com/" style="text-decoration-line: none;" target="_blank"><u>데모보기</u></a></td>
   </tr>
@@ -140,7 +140,7 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">모바일<br>클라이언트</td>
     <td class="tg-s6z2">
-      <a href="https://uengine.org/assets/docs/umobi.pdf" style="text-decoration-line: none;" target="_blank"><u>브로셔</u></a>
+      <a href="http://uengine.org/assets/docs/umobi.pdf" style="text-decoration-line: none;" target="_blank"><u>브로셔</u></a>
     </td>
     <td class="tg-s6z2"></td>
   </tr>
