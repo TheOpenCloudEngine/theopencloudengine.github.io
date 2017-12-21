@@ -51,10 +51,8 @@ layout: default
 
 {% if page.title == "uEngine Billing" %}
 {{content}}
-{% endif %}
-{% if page.title == "Beluga PaaS Engine" %}
+{% elif page.title == "Beluga PaaS Engine" %}
 {{content}}
-{% endif %}
 {% else %}
 <div class="container markdown">
      {{content}}
