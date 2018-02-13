@@ -78,7 +78,7 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
     <td class="tg-s6z2"></td>
     <td class="tg-s6z2">결재선 편집기와<br>기안기</td>
     <td class="tg-s6z2"></td>
-    <td class="tg-s6z2"><a href="http://221.141.2.166:9090/uengine-web/" style="text-decoration-line: none;" target="_blank"><u>데모보기</u></a></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">uEngine JMS</td>
@@ -96,7 +96,7 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
       <br>
       <a href="http://uengine.org/assets/docs/uJMS.pdf" style="text-decoration-line: none;" target="_blank"><u>브로셔</u></a>
     </td>
-    <td class="tg-s6z2"><a href="http://221.141.2.166:5050/uengine-web" style="text-decoration-line: none;" target="_blank"><u>데모보기</u></a></td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">uEngine PMT</td>
