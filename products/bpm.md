@@ -19,16 +19,17 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
 
 # New UI of uEngine5
 
-<img width="1288" alt="uengine5 process designer" src="https://user-images.githubusercontent.com/487999/36926534-c1f9c24a-1ebb-11e8-96e1-5d8e3b73391b.png">
-<img width="1333" alt="uengine5 workitem monitor" src="https://user-images.githubusercontent.com/487999/36926642-39525302-1ebc-11e8-9004-7ccffd346546.png">
-<img width="1288" alt="uengine5 classdesigner" src="https://user-images.githubusercontent.com/487999/36926643-39936f54-1ebc-11e8-8419-d238f519a53d.png">
-<img width="1267" alt="uengine5 workitemhandler" src="https://user-images.githubusercontent.com/487999/36926800-e81e2942-1ebc-11e8-9e02-0ba68fc1d40d.png">
+
+<img width="500" alt="uengine5 process designer" src="https://user-images.githubusercontent.com/487999/36926534-c1f9c24a-1ebb-11e8-96e1-5d8e3b73391b.png">
+<img width="500" alt="uengine5 workitem monitor" src="https://user-images.githubusercontent.com/487999/36926642-39525302-1ebc-11e8-9004-7ccffd346546.png">
+<img width="500" alt="uengine5 classdesigner" src="https://user-images.githubusercontent.com/487999/36926643-39936f54-1ebc-11e8-8419-d238f519a53d.png">
+<img width="500" alt="uengine5 workitemhandler" src="https://user-images.githubusercontent.com/487999/36926800-e81e2942-1ebc-11e8-9e02-0ba68fc1d40d.png">
 
 
 # uEngine 제품 그룹
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:50;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-s6z2{text-align:center}
