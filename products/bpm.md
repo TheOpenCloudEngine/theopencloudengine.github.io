@@ -17,13 +17,68 @@ guide: ../assets/docs/유엔진 BPM 사용자메뉴얼 V_3.5.5.doc
 
 ---
 
-# New UI of uEngine5
+<section class="padding-top-110">
+ <div class="container">
+
+  <div class="text-center mb-80">
+   <h2 class="section-title text-uppercase">Features</h2>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">Full Support of BPMN 2.0</h2>
+
+    <p>uEngine5 는 OMG BPMN 2.0 스펙을 완전하게 지원합니다. 세계적으로 합의된 프로세스 자산화의 표준인 BPMN 은 역사상 가장 이해하기 쉽고 강력한 프로세스정의 언어입니다. uEngine5 의 순수웹기반 프로세스 디자이너는 언제 어디서든 여러분의 프로세스 혁신을 위한 도구로 활용될 수 있습니다.</p>
+
+   </div>
+
+   <div class="col-md-5">
+    <img src="https://user-images.githubusercontent.com/487999/36926534-c1f9c24a-1ebb-11e8-96e1-5d8e3b73391b.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
 
 
-<img width="500" alt="uengine5 process designer" src="https://user-images.githubusercontent.com/487999/36926534-c1f9c24a-1ebb-11e8-96e1-5d8e3b73391b.png">
-<img width="500" alt="uengine5 workitem monitor" src="https://user-images.githubusercontent.com/487999/36926642-39525302-1ebc-11e8-9004-7ccffd346546.png">
-<img width="500" alt="uengine5 classdesigner" src="https://user-images.githubusercontent.com/487999/36926643-39936f54-1ebc-11e8-8419-d238f519a53d.png">
-<img width="500" alt="uengine5 workitemhandler" src="https://user-images.githubusercontent.com/487999/36926800-e81e2942-1ebc-11e8-9e02-0ba68fc1d40d.png">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="https://user-images.githubusercontent.com/487999/36926642-39525302-1ebc-11e8-9004-7ccffd346546.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">UML Class Modeling</h2>
+
+    <p>uEngine5 에 내장된 UML 클래스 모델러를 통하여 도메인 모델을 설계할 수 있습니다. 이렇게 설계된 도메인 모델은 프로세스 변수와 룰 편집기의 모델로 활용되며, Open Cloud Engine PaaS 에 결합되어 곧바로 Java Spring Boot 애플리케이션의 형태 (마이크로 서비스) 로 생성-역공학 (Round-trip Engineering) 됩니다. DDD (Domain Driven Design) 의 사상을 기반하여 마이크로 서비스 아키텍처 기반의 애플리케이션을 빠르게 생성하여 BPM 기반의 SOA 아키텍처를 이루고 싶다면 이 강력한 도구를 활용하지 않을 수 없을 것입니다.</p>
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">Social Workspace</h2>
+
+    <p>프로세스 기반 시스템은 단순히 업무를 부여받고 처리하는 TO-DO-LIST 만이 아닙니다. 뛰어난 기업은 동료와 협업하고 상호 동기부여를 통한 집단지성을 이루어 내고 있습니다. uEngine5 워크스페이스는 10여년간 설계해온 유엔진의 기업용 SNS UI/UX 설계를 바탕으로 Top-down 의 프로세스 컴플라이언스와 동시에 Bottom-up 의 조직전체의 역량을 끌어올리는 기업 소셜 네트워크를 제공합니다.</p>
+
+   </div>
+
+   <div class="col-md-5">
+    <img src="https://user-images.githubusercontent.com/487999/36926643-39936f54-1ebc-11e8-8419-d238f519a53d.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="https://user-images.githubusercontent.com/487999/36926800-e81e2942-1ebc-11e8-9e02-0ba68fc1d40d.png" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">프로세스 모니터링</h2>
+
+    <p> 다양한 관점의 프로세스 실행과 조직 역량을 한곳에서 모니터링하세요 </p>
+   </div>
+
+  </div>
+
+
+</section>
+
 
 
 # uEngine 제품 그룹
