@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-105656268-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="materialize is a material design based mutipurpose responsive template">
+    <meta name="description" content="유엔진솔루션즈는 2003년 이래 업무 프로세스 관리 (Business Process Management), 기업용 SNS, PaaS 를 포함한 클라우드
+        플랫폼, 도메인 기반 개발 방법을 지향하는 개발 프레임워크 등을 개발하고 오픈소스 프로젝트로 제공하는 기술 집약적 기업입니다.">
     <meta name="keywords"
-          content="material design, card style, material template, portfolio, corporate, business, creative, agency">
+          content="bpm, bpms, cloud, platform, cloud platform, paas, microservice, billing, saas, 클라우드, 프로세스, 마이크로서비스">
     <meta name="author" content="trendytheme.net">
 
     <title>uEngine</title>
@@ -92,8 +102,8 @@
 
                 <!--logo start-->
                 <a href="/index" class="logo-brand">
-                    <img src="../assets/img/uengine/logo.svg" alt=""/>
-                    <span style="line-height: 30px;float: left">uEngine</span>
+                    <img src="../assets/img/uengine/logo_bright.png" alt="" style="padding-bottom: 10px; margin-right: 7px;" />
+                    
                 </a>
                 <!--logo end-->
 
@@ -125,10 +135,10 @@
                                                     <li><a href="/products/bpm">uEngine BPM</a></li>
 
                                                     
-                                                    <li><a href="/products/essencia">Essencia</a></li>
+                                                    <li><a href="/products/sns">SNS</a></li>
 
                                                     
-                                                    <li><a href="/products/sns">SNS</a></li>
+                                                    <li><a href="/products/essencia">ALM</a></li>
 
                                                     
 
@@ -139,13 +149,13 @@
                                                 <h2>Cloud Platform</h2>
                                                 <ul class="list-unstyled">
                                                     
-                                                    <li><a href="/products/pass">Garuda PaaS</a></li>
-
-                                                    
-                                                    <li><a href="/products/billing">uEngine Billing</a></li>
+                                                    <li><a href="/products/pass">PaaS</a></li>
 
                                                     
                                                     <li><a href="/products/iam-gw">IAM/API Gateway</a></li>
+
+                                                    
+                                                    <li><a href="/products/billing">SaaS Billing</a></li>
 
                                                     
 
@@ -156,10 +166,10 @@
                                                 <h2>Libraries and Frameworks</h2>
                                                 <ul class="list-unstyled">
                                                     
-                                                    <li><a href="/products/og">Open Graph</a></li>
+                                                    <li><a href="/products/mw4">UI/MSA Platform</a></li>
 
                                                     
-                                                    <li><a href="/products/mw4">Metaworks4</a></li>
+                                                    <li><a href="/products/og">Graph Library</a></li>
 
                                                     
 
@@ -186,54 +196,6 @@
                                         <li><a href="/case/case02">공공 및 제조/건설/물류</a></li>
                                         
                                         <li><a href="/case/case03">IT 및 통신</a></li>
-                                        
-                                    </ul>
-                                </li>
-
-                            
-
-
-                        
-                    
-                        
-
-                            
-                                <li><a href="javascript:void(0)">Library</a>
-                                    <ul class="dropdown" style="right: auto; display: none;">
-                                        
-                                        <li><a href="/library/video">Tutorial Video</a></li>
-                                        
-                                        <li><a href="/library/user-guide">uEngine User's Guide</a></li>
-                                        
-                                        <li><a href="/library/dev-guide">uEngine Developer's Guide</a></li>
-                                        
-                                        <li><a href="/library/wiki">Wiki</a></li>
-                                        
-                                        <li><a href="/library/og-api">OpenGraph API</a></li>
-                                        
-                                        <li><a href="/library/mw4-api">Metaworks4 API</a></li>
-                                        
-                                    </ul>
-                                </li>
-
-                            
-
-
-                        
-                    
-                        
-
-                            
-                                <li><a href="javascript:void(0)">Community</a>
-                                    <ul class="dropdown" style="right: auto; display: none;">
-                                        
-                                        <li><a href="/community/forums">Forums</a></li>
-                                        
-                                        <li><a href="https://theopencloudengine.github.io/TheOpenCloudEngine.github.io-blog">Blog</a></li>
-                                        
-                                        <li><a href="/community/twitter">Twitter</a></li>
-                                        
-                                        <li><a href="/community/enterprise">Enterprise 2.0</a></li>
                                         
                                     </ul>
                                 </li>
@@ -283,6 +245,12 @@
 
                         
                     
+                        
+                        <li class="active"><a href="/TheOpenCloudEngine.github.io-campus/">Campus</a>
+
+                        </li>
+                        
+                    
 
                 </ul>
                 <!--mega menu end-->
@@ -294,7 +262,12 @@
 <!--header end-->
 
 
-    <section class="parallax-bg bg-fixed overlay fullscreen-banner valign-wrapper"
+    <style>
+         .border {
+                  border: 1px solid #f1f1f1;
+         }
+</style>
+<section class="parallax-bg bg-fixed overlay fullscreen-banner valign-wrapper"
          style="background-image: url(../assets/img/banner/banner-4.jpg)"
          data-stellar-background-ratio="0.5">
   <div class="valign-cell">
@@ -303,16 +276,19 @@
         <h1 class="tt-headline loading-bar">
           <!-- you can use "rotate-1", "letters type", "letters rotate-2", "letters rotate-3", "letters scale", "loading-bar", "slide", "clip is-full-width", "push" -->
           <p>유엔진 오픈소스</p>
-          <span>We'r </span>
           <span class="tt-words-wrapper">
-                            <b class="is-visible">Technology-intensive</b>
-                            <b>Open Source Community</b>
+                            <b class="is-visible">BPM</b>
+                            <b>Cloud Platform</b>
+                            <b>Enterprise SNS</b>
+                            <b>SaaS Billing</b>
+                            <b>UI/UX Platform</b>
                         </span>
+                 
         </h1>
-
-        <p class="sub-intro lead white-text">Smart, Modern and Unique</p>
+         <p class="sub-intro lead white-text">the Universal Engines for Digital Economy Era</p>
+               
         <a class="btn popup-video text-capitalize mt-30 waves-effect waves-light"
-           href="https://www.youtube.com/watch?v=XVfOe5mFbAE">Watch Overview</a>
+           href="https://www.youtube.com/watch?v=ioOdnl_aIKE">사용자 인터뷰</a>
       </div>
     </div><!-- /.container -->
   </div><!-- /.valign-cell -->
@@ -323,179 +299,138 @@
   <div class="container">
 
     <div class="text-center mb-80">
-      <h2 class="section-title text-uppercase">What We Do</h2>
+      <h2 class="section-title text-uppercase">제품 서비스 영역</h2>
       <p class="section-sub">유엔진솔루션즈는 2003년 이래 업무 프로세스 관리 (Business Process Management), 기업용 SNS, PaaS 를 포함한 클라우드
         플랫폼, 도메인 기반 개발 방법을 지향하는 개발 프레임워크 등을 개발하고 오픈소스 프로젝트로 제공하는 기술 집약적 기업입니다.</p>
     </div>
 
-    <div class="row no-gutter">
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box border-right text-center hover brand-hover">
+   
+      <div class="col-md-6 col-sm-6">
+         <a href="/products/bpm">
+        <div class="featured-box border text-center hover brand-hover">
           <div class="featured-wrapper">
             <div class="intro-header">
-              <i class="material-icons brand-icon">&#xE53B;</i>
-              <h2>Model Driven Development</h2>
+              <i class="material-icons brand-icon">&#xE242;</i>
+              <h2>업무 프로세스 관리</h2>
             </div>
 
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
+            <div class="content" style="display:table-cell;vertical-align:middle;">
+              <p style="margin-bottom: 3px"> uEngine BPMS 는 OMG 국제표준인 BPMN 2.0 을 지원하여 
+                     기업의 프로세스를 관리하고 지속적인 개선을 수행할 수 있도록 하는 프로세스 혁신 기능과 소셜 네트워크 기반의 포털을 통하여 창의적인 프로세스 협업을 가능하게하는 
+                     두가지 통제와 혁신의 관점의 UI/UX 를 통합하는 UI를 제공합니다. </p>
             </div>
           </div><!-- /.featured-wrapper -->
         </div><!-- /.featured-box  -->
+         </a> <!-- link -->
       </div><!-- /.col-md-3 -->
-
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box border-right text-center hover brand-hover">
+           
+           
+      <div class="col-md-6 col-sm-6">
+               <a href="/products/pass">
+        <div class="featured-box border text-center hover brand-hover">
           <div class="featured-wrapper">
             <div class="intro-header">
-              <i class="material-icons brand-icon">&#xE051;</i>
-              <h2>Cloud Management Platform</h2>
+              <i class="material-icons brand-icon">&#xE2BE;</i>
+              <h2>클라우드 개발 관리 플랫폼</h2>
             </div>
 
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
+            <div class="content" style="display:table-cell;vertical-align:middle;">
+              <p style="margin-bottom: 3px">
+                       마이크로 서비스 아키텍처의 주 구성요소인 유엔진 IAM, API GW 와 수익화를 위한 SaaS Billing, Metaworks4 멀티테넌트 프레임워크, 가루다 워크로드 분산 엔진을 통하여 
+                     많은 시행 착오를 줄이고 빠른 클라우드로의 전환을 이루세요.</p>
             </div>
           </div><!-- /.featured-wrapper -->
         </div><!-- /.featured-box  -->
+               </a> <!-- link -->
       </div><!-- /.col-md-3 -->
 
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box border-right text-center hover brand-hover">
-          <div class="featured-wrapper">
-            <div class="intro-header">
-              <i class="material-icons brand-icon">&#xE323;</i>
-              <h2>Business Process Management</h2>
-            </div>
+     
 
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
-            </div>
-          </div><!-- /.featured-wrapper -->
-        </div><!-- /.featured-box  -->
-      </div><!-- /.col-md-3 -->
-
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box text-center hover brand-hover">
+      <div class="col-md-6 col-sm-6">
+               <a href="/products/pass">
+        <div class="featured-box border text-center hover brand-hover">
           <div class="featured-wrapper">
             <div class="intro-header">
               <i class="material-icons brand-icon">&#xE0B9;</i>
-              <h2>Platform As-A Service</h2>
+              <h2>PaaS 그리고 DevOps 환경</h2>
             </div>
 
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
+            <div class="content" style="display:table-cell;vertical-align:middle;">
+              <p style="margin-bottom: 3px">
+                     유엔진의 PaaS환경인 [가루다]는 도커엔진과 유엔진의 클라우드 플랫폼, 그리고 유엔진 BPMS 를 통하여 자동화된 운영 프로세스를 지원합니다. 
+                       MSA 플랫폼, DDD 분석 기법, 그리고 BPM을 기반한 수준 높은 운영자동화 환경을 구축하십시오.
+                     </p>
             </div>
           </div><!-- /.featured-wrapper -->
         </div><!-- /.featured-box  -->
+               </a> <!-- link -->
       </div><!-- /.col-md-3 -->
 
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box text-center hover brand-hover">
+      <div class="col-md-6 col-sm-6">
+               <a href="/products/sns">
+        <div class="featured-box border text-center hover brand-hover">
           <div class="featured-wrapper">
             <div class="intro-header">
-              <i class="material-icons brand-icon">&#xE0B9;</i>
-              <h2>Enterprise Social Network</h2>
+              <i class="material-icons brand-icon">&#xE7EF;</i>
+              <h2>기업용 소셜 네트워크</h2>
             </div>
 
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
+            <div class="content" style="display:table-cell;vertical-align:middle;">
+              <p style="margin-bottom: 3px">
+                       유엔진의 [프로세스 코디]는 대기업 그룹사와 다양한 기관에서 검증된 기업용 소셜 네트워크 솔루션으로 업무적 맥락을 이해하면서 수평적 협업을 
+                       최대한으로 이끌어내도록 UX가 설계되었습니다. 
+                     </p>
             </div>
           </div><!-- /.featured-wrapper -->
         </div><!-- /.featured-box  -->
+               </a> <!-- link -->
       </div><!-- /.col-md-3 -->
 
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box text-center hover brand-hover">
+      <div class="col-md-6 col-sm-6">
+               <a href="/products/essencia">
+        <div class="featured-box border text-center hover brand-hover">
           <div class="featured-wrapper">
             <div class="intro-header">
               <i class="material-icons brand-icon">&#xE0B9;</i>
               <h2>OMG Standard-based ALM</h2>
             </div>
 
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
+            <div class="content" style="display:table-cell; vertical-align:middle;">
+              <p style="margin-bottom: 3px">
+                       유엔진은 KAIST 와 함께 OMG Essence를 적용하여 소프트웨어 진척도를 관리하고 다양한 방법론을 BPMN 프로세스로 각 프로젝트 담당자에게 
+                       직무와 완료 조건 (체크포인트) 보내어 어려운 소프트웨어 프로세스를 관리할 수 있도록 해주는 세계최초의 도구인 Essencia 를 제공하고 있습니다. 
+           
+                     
+                     </p>
             </div>
           </div><!-- /.featured-wrapper -->
         </div><!-- /.featured-box  -->
+               </a> <!-- link -->
       </div><!-- /.col-md-3 -->
 
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box text-center hover brand-hover">
+      <div class="col-md-6 col-sm-6">
+               <a href="/products/mw4">
+        <div class="featured-box border text-center hover brand-hover">
           <div class="featured-wrapper">
             <div class="intro-header">
-              <i class="material-icons brand-icon">&#xE0B9;</i>
-              <h2>Open Source Software Management</h2>
+              <i class="material-icons brand-icon">&#xE051;</i>
+              <h2>웹 컴포넌트 UI/UX 플랫폼</h2>
             </div>
 
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
-            </div>
-          </div><!-- /.featured-wrapper -->
-        </div><!-- /.featured-box  -->
-      </div><!-- /.col-md-3 -->
-
-      <div class="col-md-3 col-sm-6">
-        <div class="featured-box text-center hover brand-hover">
-          <div class="featured-wrapper">
-            <div class="intro-header">
-              <i class="material-icons brand-icon">&#xE0B9;</i>
-              <h2>Web Component Standard</h2>
-            </div>
-
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae
-                tempora.</p>
+            <div class="content" style="display:table-cell;vertical-align:middle;">
+              <p style="margin-bottom: 3px">[Metaworks4] 프레임워크는 이러한 Web Component 표준을 지원하여 웹 개발을 태그의 이해만으로도 자바스크립트 등과 간섭없는 확장과 개발이 가능하게 합니다.
+                 또한 MSA 의 사상에 근거한 단일페이지애플리케이션, 클라이언트 주도된 데이터 통합이 가능하며, Spring Hateoas 프레임워크와 연동되어 빠르게 기존 서비스들을 수준높은 REST 서비스 (Level3) 로 Expose 할 수 있습니다. </p>
             </div>
           </div><!-- /.featured-wrapper -->
         </div><!-- /.featured-box  -->
-      </div><!-- /.col-md-3 -->
-
-
+               </a> <!-- link -->
+      </div><!-- /.col-md-3 -->  
+        <div style="text-align: center;">
+                 <a href="#." class="btn btn-lg waves-effect waves-light" style="margin-top: 14px;">Contact Us (help@uengine.org)</a>
+         </div>
     </div><!-- /.row -->
   </div><!-- /.container -->
-</section>
 
-<section class="section-padding dark-bg lighten-4">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-7 light-grey-text">
-        <h2 class="font-40 mb-30 white-text">제품 & 서비스 영역</h2>
-
-        <ul class="list-icon mb-30">
-          <li><i class="material-icons">&#xE876;</i> NoOps Team.</li>
-          <p>PaaS는 개발조직에게 통합 미들웨어와 개발 서비스를 알아서 관리해줍니다. 개발환경의 생성, 디플로이, 관리의 환경에 대한 좀더 추상화된 환경을 제공합니다. 이를 통하여
-            시스템 운영자가 없이 개발에 몰두 할 수 있는 조직인 'DevOps' 혹은 'NoOps'조직을 만들 수 있습니다</p>
-
-          <li><i class="material-icons">&#xE876;</i> 일관성 있는 애플리케이션 생명주기 관리.</li>
-          <p>Garuda PaaS는 개발 서비스에 대한 쉬운 프로비져닝을 할 수 있게 해줍니다 - 빌드, 테스트 그리고 형상관리 저장소 서비스 등을 - 어떠한 표준적이지 않은 환경에서
-            개발되었을 때 발생할 수 있는 비효율성, 오류, 비일관성 등의 문제를 개발 라이프사이클 전반에 있어서 막아줍니다. 이로서 개발과 운영조직은 SW 라이프사이클 관리를 위한
-            SW 형상과 버전을 트래킹하는 일관성 있는 플랫품을 갖추게 됩니다.</p>
-
-          <li><i class="material-icons">&#xE876;</i> 서비스 프로비져닝의 비용 절감.</li>
-          <p>Garuda Enterprise App Store 에서는 개발된 앱들을 스테이징에서, 운영, 확장까지의 애플리케이션 프로비져닝도 laaS를 직접 다룰 필요 없이 버튼 클릭
-            한번으로 조직에서 사용할 수 있게 준비시켜줍니다. 사용할 애플리케이션에 대한 맞춤화는 셀프세비스 포탈에서 쉽게 설정하여 사용할 수 있습니다.</p>
-
-          <li><i class="material-icons">&#xE876;</i> 서비스 통합 비용 절감.</li>
-          <p>전통적으로 애플리케이션들을 통합 연동하는 것은 많은 비용과 시간이 필요하다. Garuda에서는 모든 미들웨어는 쉽게 관리되고 연결될 수 있도록 미리 설정되어 있기 때문에
-            앱스토어에 한번 등록된 앱들은 쉽게 RESTful과 Web Service의 형태와 BPM 플랫폼에 의하여 프로세스 적으로 통합될 수 있다.</p>
-        </ul>
-
-        <a href="#." class="btn btn-lg text-capitalize waves-effect waves-light">Contact Us (02-567-8301)</a>
-
-      </div><!-- /.col-md-7 -->
-
-      <div class="col-md-5 mt-sm-30">
-        <img src="assets/img/seo/seo-info-light.png" alt="" class="img-responsive">
-      </div><!-- /.col-md-5 -->
-    </div><!-- /.row -->
-  </div><!-- /.container -->
 </section>
 
 <section class="section-padding" style="padding: 110px 0 0">
@@ -503,7 +438,7 @@
 
     <div class="text-center mb-80">
       <h2 class="section-title">Our Clients</h2>
-      <p class="section-sub">ooo 기업들이 유엔진과 함께하고 있습니다.</p>
+      <p class="section-sub">기업들이 유엔진과 함께하고 있습니다.</p>
     </div>
   </div><!-- /.container -->
   <img src="assets/img/uengine/cases.png" width="100%" alt="" class="img-responsive">
@@ -520,30 +455,28 @@
                data-section="#top">
                 <i class="material-icons">&#xE316;</i>
             </a>
-
-            <ul class="social-link tt-animate ltr mt-20">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-tumblr"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-rss"></i></a></li>
-            </ul>
-
-            <hr class="mt-15">
-
+        <!--    <div style="text-align: center;">
+                <ul class="social-link tt-animate ltr mt-20">
+                     <li><a href="https://www.facebook.com/groups/metaworks/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                     <li style="margin-left: 60px"><a href="https://www.facebook.com/groups/uenginebpm/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                </ul>
+                <ul class="social-link tt-animate ltr mt-20" style="margin-top: 0px;">
+                     <li><span class="copy-text">Metaworks</span></li>
+                     <li style="margin-left: 20px;"><span class="copy-text">uEngineBPM</span></li>
+                </ul>
+            </div> -->
+             <hr class="mt-15">
+ 
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer-logo">
-                        <img style="width: 250px" src="../assets/img/uengine/logo_stancil3.png" alt="">
+                        <img style="width: 250px" src="../assets/img/uengine/new_logo_color.png" alt="">
                     </div>
 
-                    <span class="copy-text">Copyright &copy; 2016 <a href="#">Uengine</a> &nbsp; | &nbsp;  All Rights Reserved &nbsp; | &nbsp;  Designed By <a
-                            href="#">Sppark</a></span>
-                    <div class="footer-intro">
-                        <p>유엔진솔루션즈는 2003년 이래 업무 프로세스 관리 (Business Process Management), 기업용 SNS, PaaS 를 포함한 클라우드 플랫폼, 도메인
-                            기반 개발 방법을 지향하는 개발 프레임워크 등을 개발하고 오픈소스 프로젝트로 제공하는 기술 집약적 기업입니다.</p>
+                    <span class="copy-text">Copyright &copy; 2017 <a href="#">uEngine</a> &nbsp; | &nbsp;  All Rights Reserved &nbsp; | &nbsp;  Designed By <a
+                            href="#">Sppark</a> &nbsp; | &nbsp;  Address <a href="#"> 서울 서초구 신반포로45길 18 주일빌딩 501호 </a> </span>
+                    <div class="footer-intro" style="margin-bottom: 50px;">
+                       <span class="copy-text"> Email <a href="#"> help@uengine.org </a> </span>
                     </div>
                 </div><!-- /.col-md-12 -->
             </div><!-- /.row -->
@@ -559,6 +492,7 @@
                 <li><a href="#">Event</a></li>
                 <li><a href="#">Service</a></li>
                 <li><a href="#">Community</a></li>
+              <li><a href="http://uengine.org/TheOpenCloudEngine.github.io-blog/" target="_blank">Blog</a></li>
             </ul>
         </div><!-- /.container -->
     </div><!-- /.secondary-footer -->
@@ -568,7 +502,7 @@
 <!-- Preloader -->
 <div id="preloader">
     <div class="preloader-position">
-        <img width="200px" src="../assets/img/uengine/logo_stancil3.png" alt="logo">
+        <img width="200px" src="../assets/img/uengine/new_logo_color.png" alt="logo">
         <div class="progress">
             <div class="indeterminate"></div>
         </div>

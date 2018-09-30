@@ -29,7 +29,12 @@ layout: default
                     {% endif %}     
                          
                     {% if page.demo %}
-                    <a href="{{ page.demo }}" class="btn btn-lg blue waves-effect waves-light mt-30">Live Demo</a>
+                    <a href="{{ page.demo }}" class="btn btn-lg blue waves-effect waves-light mt-30">Live Demo
+
+                    {% if page.demo-login %}
+                    <span style="text-transform: lowercase;">({{ page.demo-login }})</span>
+                    {% endif %}
+                    </a>
                     {% endif %}
                     
                     {% if page.manual %}
@@ -43,6 +48,7 @@ layout: default
                 </div><!-- col-md-6 -->
                 {% if page.video %}
                 <div class="col-md-6">
+                    {{ page.slide }}
                     {{ page.video }}
                     {{ page.video2 }}
                 </div>
