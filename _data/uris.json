@@ -14,7 +14,7 @@
           "child": [
             {
               "name": "uEngine BPM",
-              "url": "/products/bpm"
+              "url": "https://bpm-intro.uengine.io/"
             },
             {
               "name": "SNS",
@@ -32,7 +32,7 @@
           "child": [
             {
               "name": "MSA EZ",
-              "url": "/eventstorming"
+              "url": "https://intro.msaez.io/"
             },
             {
               "name": "PaaS",
@@ -129,5 +129,5 @@
   {
     "name": "MSA School",
     "url": "http://msaschool.io"
-  },
+  }
 ]
